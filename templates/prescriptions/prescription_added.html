@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="http://www.w3schools.com/lib/w3.css">
+    <title></title>
+</head>
+<body>
+
+    {% include "navbar.html" %}
+
+    {% block content %}
+
+    <h2> A prescription has now been created.</h2>
+
+    <a href="{% url 'index' %}"class="w3-btn"> Go back to Main Prescriptions page </a>
+
+    <br>
+
+
+    {% endblock %}
+
+
+</body>
+</html>

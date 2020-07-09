@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <link rel="stylesheet" href="http://www.w3schools.com/lib/w3.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="UTF-8">
+    <title>Tests</title>
+</head>
+
+<body>
+
+{% include "navbar.html" %}
+
+
+    <form action="/testResults/add_test/" method="post">
+        {% csrf_token %}
+        <input type="submit" value="Add Test" />
+    </form>
+    <form action="/testResults/view_test/" method="post">
+        {% csrf_token %}
+        <input type="submit" value="View Test" />
+    </form>
+</body>
+</html>

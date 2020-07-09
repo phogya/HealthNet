@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<body>
+
+{% include "navbar.html" %}
+
+<div class="container">
+        <br>
+        <ul class="w3-ul w3-card-4" style="width:50%">
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Appointment:
+            <br> Title:
+            <li> {{appt.title}}</li>
+            <br> Description:
+            <li> {{appt.description}} </li>
+            <br> Hosptial:
+            <li> {{appt.hospital}} </li>
+            <br> Start Time:
+            <li> {{appt.start_time_hour}}:{{ appt.start_time_min }} {{ appt.start_time_apm }}</li>
+            <br> End Time:
+            <li> {{appt.end_time_hour}}:{{ appt.end_time_min }} {{ appt.start_time_apm }} </li>
+
+
+        </ul>
+    </div>
+</body>
+</html>

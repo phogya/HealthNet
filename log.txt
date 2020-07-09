@@ -1,0 +1,714 @@
+10-04-2015 9:23:25 Dr. House viewed Robert Frost's patient information.
+10-04-2015 9:27:48 Dr. House updated Robert Frost's patient information.
+10-04-2015 9:35:26 Dr. House wrote a prescription of ibuprofen for Robert Frost.
+10/14/2015 09:26:17 PM Unknown user viewed Jane Doe and House's prescription of 200 mg of Ibuprofen and 500 mg of Acetaminophen
+10/14/2015 09:29:25 PM Unknown user viewed Jane Doe and House's prescription of 200 mg of Ibuprofen and 500 mg of Acetaminophen
+10/14/2015 09:53:28 PM There is an unrecognized test result action involving No One, view, Remicade Levels.
+10/14/2015 09:54:10 PM No One viewed Remicade Levels's Nate test results.
+10/14/2015 09:55:11 PM No One viewed Nate's Remicade Levels test results.
+10/15/2015 06:14:26 PM Unknown user viewed Jane Doe and House's prescription of 200 mg of Ibuprofen and 500 mg of Acetaminophen
+10/18/2015 11:12:27 AM No One viewed Nate and Testing456's Remicade Levels and MRI test results.
+10/18/2015 11:28:03 AM No One viewed Nate and Testing456 and joe's Remicade Levels and MRI and test test results.
+10/18/2015 04:15:56 PM No One uploaded test results for Nate.
+10/18/2015 04:16:50 PM No One uploaded Remicade Levels test results for Carlton.
+10/18/2015 04:42:56 PM No One wrote a prescription of 6 mg of Budesonide for Nathan.
+10/18/2015 04:46:38 PM No One wrote a prescription of 6 mg of ibuprofen for Nate.
+10/18/2015 04:59:55 PM No One viewed Jane Doe and House and Nathan and Nate's prescription of 5 days refills of 200 mg of Ibuprofen and 3 weeks refills of 500 mg of Acetaminophen and 3 refills of 6 mg of Budesonide and 3 refills of 6 mg of ibuprofen
+10/20/2015 11:46:29 AM No One viewed Jane Doe and House and John Doe and Patient1 and Patient2's prescription of 5 days refills of 200 mg of Ibuprofen and 3 weeks refills of 500 mg of Acetaminophen and 5 days refills of 500mg of Adderall and Refill1 refills of Dose1 of Medicine1 and Refill2 refills of Dose2 of Medication2
+10/20/2015 11:47:05 AM No One viewed Jane Doe and House and John Doe and Patient1 and Patient2's prescription of 5 days refills of 200 mg of Ibuprofen and 3 weeks refills of 500 mg of Acetaminophen and 5 days refills of 500mg of Adderall and Refill1 refills of Dose1 of Medicine1 and Refill2 refills of Dose2 of Medication2
+10/20/2015 11:48:08 AM No One viewed Jane Doe and House and John Doe and Patient1 and Patient2's prescription of 5 days refills of 200 mg of Ibuprofen and 3 weeks refills of 500 mg of Acetaminophen and 5 days refills of 500mg of Adderall and Refill1 refills of Dose1 of Medicine1 and Refill2 refills of Dose2 of Medication2
+10/20/2015 11:58:36 AM No One viewed Jane Doe and House and John Doe and Patient1 and Patient2's prescription of 5 days refills of 200 mg of Ibuprofen and 3 weeks refills of 500 mg of Acetaminophen and 5 days refills of 500mg of Adderall and Refill1 refills of Dose1 of Medicine1 and Refill2 refills of Dose2 of Medication2
+10/20/2015 11:59:28 AM No One viewed Jane Doe and House and John Doe and Patient1 and Patient2's prescription of 5 days refills of 200 mg of Ibuprofen and 3 weeks refills of 500 mg of Acetaminophen and 5 days refills of 500mg of Adderall and Refill1 refills of Dose1 of Medicine1 and Refill2 refills of Dose2 of Medication2
+10/25/2015 06:24:52 PM No One viewed Jane Doe and House and John Doe and Patient1 and Patient2's prescription of 5 days refills of 200 mg of Ibuprofen and 3 weeks refills of 500 mg of Acetaminophen and 5 days refills of 500mg of Adderall and Refill1 refills of Dose1 of Medicine1 and Refill2 refills of Dose2 of Medication2
+10/25/2015 06:51:27 PM No One viewed Nate's Remicade Levels test results.
+10/25/2015 06:51:46 PM No One viewed Nate's Remicade Levels test results.
+10/25/2015 06:58:55 PM No One uploaded MRI test results for John Doe.
+10/25/2015 06:58:56 PM No One viewed Nate and John Doe's Remicade Levels and MRI test results.
+10/27/2015 11:40:26 AM No One viewed Remicade Levels and MRI test results for Nate and John Doe.
+10/27/2015 11:40:36 AM No One viewed Jane Doe and House and John Doe and Patient1 and Patient2's prescription of 5 days refills of 200 mg of Ibuprofen and 3 weeks refills of 500 mg of Acetaminophen and 5 days refills of 500mg of Adderall and Refill1 refills of Dose1 of Medicine1 and Refill2 refills of Dose2 of Medication2.
+10/27/2015 11:42:05 AM No One viewed Jane Doe and House and John Doe and Patient1 and Patient2's prescription of 5 days refills of 200 mg of Ibuprofen and 3 weeks refills of 500 mg of Acetaminophen and 5 days refills of 500mg of Adderall and Refill1 refills of Dose1 of Medicine1 and Refill2 refills of Dose2 of Medication2.
+10/27/2015 11:51:18 AM C:\Python343\lib\site-packages\django\template\defaulttags.py:66: UserWarning: A {% csrf_token %} was used in a template, but the context did not provide the value.  This is usually caused by not using RequestContext.
+  "A {% csrf_token %} was used in a template, but the context "
+
+10/27/2015 11:52:59 AM No One viewed Jane Doe and House and John Doe and Patient1 and Patient2's prescription of 5 days refills of 200 mg of Ibuprofen and 3 weeks refills of 500 mg of Acetaminophen and 5 days refills of 500mg of Adderall and Refill1 refills of Dose1 of Medicine1 and Refill2 refills of Dose2 of Medication2.
+10/29/2015 06:52:13 PM C:\Python343\lib\site-packages\django\template\defaulttags.py:66: UserWarning: A {% csrf_token %} was used in a template, but the context did not provide the value.  This is usually caused by not using RequestContext.
+  "A {% csrf_token %} was used in a template, but the context "
+
+10/29/2015 06:57:43 PM No One viewed Remicade Levels and MRI test results for Nate and John Doe.
+11/05/2015 06:42:36 PM C:\Python343\lib\site-packages\django\template\defaulttags.py:66: UserWarning: A {% csrf_token %} was used in a template, but the context did not provide the value.  This is usually caused by not using RequestContext.
+  "A {% csrf_token %} was used in a template, but the context "
+
+11/05/2015 07:01:22 PM C:\Python343\lib\site-packages\django\template\defaulttags.py:66: UserWarning: A {% csrf_token %} was used in a template, but the context did not provide the value.  This is usually caused by not using RequestContext.
+  "A {% csrf_token %} was used in a template, but the context "
+
+11/05/2015 07:05:20 PM C:\Python343\lib\site-packages\django\db\models\sql\query.py:1155: RemovedInDjango19Warning: Passing callable arguments to queryset is deprecated.
+  value, lookups, used_joins = self.prepare_lookup_value(value, lookups, can_reuse, allow_joins)
+
+11/05/2015 07:15:23 PM C:\Python343\lib\site-packages\django\template\defaulttags.py:66: UserWarning: A {% csrf_token %} was used in a template, but the context did not provide the value.  This is usually caused by not using RequestContext.
+  "A {% csrf_token %} was used in a template, but the context "
+
+11/05/2015 07:35:03 PM C:\Python343\lib\site-packages\django\template\defaulttags.py:66: UserWarning: A {% csrf_token %} was used in a template, but the context did not provide the value.  This is usually caused by not using RequestContext.
+  "A {% csrf_token %} was used in a template, but the context "
+
+11/05/2015 07:35:54 PM C:\Python343\lib\site-packages\django\template\defaulttags.py:66: UserWarning: A {% csrf_token %} was used in a template, but the context did not provide the value.  This is usually caused by not using RequestContext.
+  "A {% csrf_token %} was used in a template, but the context "
+
+11/05/2015 07:37:28 PM C:\Python343\lib\site-packages\django\template\defaulttags.py:66: UserWarning: A {% csrf_token %} was used in a template, but the context did not provide the value.  This is usually caused by not using RequestContext.
+  "A {% csrf_token %} was used in a template, but the context "
+
+11/05/2015 07:45:02 PM C:\Python343\lib\site-packages\django\template\defaulttags.py:66: UserWarning: A {% csrf_token %} was used in a template, but the context did not provide the value.  This is usually caused by not using RequestContext.
+  "A {% csrf_token %} was used in a template, but the context "
+
+11/05/2015 08:56:48 PM C:\Python34\lib\site-packages\django\db\backends\sqlite3\base.py:57: RuntimeWarning: SQLite received a naive datetime (2015-11-05 20:56:48.697660) while time zone support is active.
+  RuntimeWarning)
+
+11/05/2015 08:56:48 PM mmmmm@m.cmm registered.
+11/05/2015 08:57:35 PM C:\Python34\lib\site-packages\django\db\backends\sqlite3\base.py:57: RuntimeWarning: SQLite received a naive datetime (2015-11-05 20:57:35.101014) while time zone support is active.
+  RuntimeWarning)
+
+11/05/2015 08:57:35 PM f@j.com registered.
+11/07/2015 03:25:56 PM C:\Python34\lib\site-packages\django\db\backends\sqlite3\base.py:57: RuntimeWarning: SQLite received a naive datetime (2015-11-07 15:25:56.192934) while time zone support is active.
+  RuntimeWarning)
+
+11/07/2015 03:25:56 PM jds@g.com registered.
+11/07/2015 03:44:20 PM C:\Python34\lib\site-packages\django\db\backends\sqlite3\base.py:57: RuntimeWarning: SQLite received a naive datetime (2015-11-07 15:44:20.905807) while time zone support is active.
+  RuntimeWarning)
+
+11/07/2015 03:44:21 PM jlkj@jsd.com registered.
+11/07/2015 03:58:38 PM C:\Python34\lib\site-packages\django\db\backends\sqlite3\base.py:57: RuntimeWarning: SQLite received a naive datetime (2015-11-07 15:58:38.448875) while time zone support is active.
+  RuntimeWarning)
+
+11/07/2015 03:58:38 PM klj@klsdklsd.com registered.
+11/07/2015 04:00:30 PM C:\Python34\lib\site-packages\django\db\backends\sqlite3\base.py:57: RuntimeWarning: SQLite received a naive datetime (2015-11-07 16:00:30.827285) while time zone support is active.
+  RuntimeWarning)
+
+11/07/2015 04:00:30 PM ll@l.com registered.
+11/07/2015 04:07:57 PM C:\Python34\lib\site-packages\django\db\backends\sqlite3\base.py:57: RuntimeWarning: SQLite received a naive datetime (2015-11-07 16:07:57.709620) while time zone support is active.
+  RuntimeWarning)
+
+11/07/2015 04:07:57 PM kj@k.com registered.
+11/07/2015 05:04:55 PM C:\Python34\lib\site-packages\django\core\management\commands\syncdb.py:24: RemovedInDjango19Warning: The syncdb command will be removed in Django 1.9
+  warnings.warn("The syncdb command will be removed in Django 1.9", RemovedInDjango19Warning)
+
+11/07/2015 05:21:35 PM C:\Python34\lib\site-packages\django\db\backends\sqlite3\base.py:57: RuntimeWarning: SQLite received a naive datetime (2015-11-07 17:21:35.740407) while time zone support is active.
+  RuntimeWarning)
+
+11/07/2015 05:21:35 PM No One viewed Jane Doe and House and John Doe and Patient1 and Patient2's prescription of 5 days refills of 200 mg of Ibuprofen and 3 weeks refills of 500 mg of Acetaminophen and 5 days refills of 500mg of Adderall and Refill1 refills of Dose1 of Medicine1 and Refill2 refills of Dose2 of Medication2.
+11/07/2015 05:21:35 PM C:\Python34\lib\site-packages\django\db\backends\sqlite3\base.py:57: RuntimeWarning: SQLite received a naive datetime (2015-11-07 17:21:35.915432) while time zone support is active.
+  RuntimeWarning)
+
+11/07/2015 05:21:36 PM No One viewed Jane Doe and House and John Doe and Patient1 and Patient2's prescription of 5 days refills of 200 mg of Ibuprofen and 3 weeks refills of 500 mg of Acetaminophen and 5 days refills of 500mg of Adderall and Refill1 refills of Dose1 of Medicine1 and Refill2 refills of Dose2 of Medication2.
+11/07/2015 07:09:32 PM E:\Program Files (x86)\Python\lib\site-packages\django\template\defaulttags.py:66: UserWarning: A {% csrf_token %} was used in a template, but the context did not provide the value.  This is usually caused by not using RequestContext.
+  "A {% csrf_token %} was used in a template, but the context "
+
+11/07/2015 07:09:42 PM E:\Program Files (x86)\Python\lib\site-packages\django\db\backends\sqlite3\base.py:57: RuntimeWarning: SQLite received a naive datetime (2015-11-07 19:09:41.994554) while time zone support is active.
+  RuntimeWarning)
+
+11/07/2015 07:09:42 PM No One wrote a prescription of 3tdh of gdn forgj.
+11/07/2015 08:27:03 PM E:\Program Files (x86)\Python\lib\site-packages\django\db\models\fields\__init__.py:1474: RuntimeWarning: DateTimeField Appointment.start_time received a naive datetime (2015-11-15 00:00:00) while time zone support is active.
+  RuntimeWarning)
+
+11/07/2015 08:27:31 PM E:\Program Files (x86)\Python\lib\site-packages\django\db\models\fields\__init__.py:1474: RuntimeWarning: DateTimeField Appointment.end_time received a naive datetime (2015-11-15 00:00:00) while time zone support is active.
+  RuntimeWarning)
+
+11/07/2015 08:30:08 PM E:\Program Files (x86)\Python\lib\site-packages\django\db\models\fields\__init__.py:1474: RuntimeWarning: DateTimeField Appointment.start_time received a naive datetime (2015-11-18 00:00:00) while time zone support is active.
+  RuntimeWarning)
+
+11/07/2015 08:30:08 PM E:\Program Files (x86)\Python\lib\site-packages\django\db\models\fields\__init__.py:1474: RuntimeWarning: DateTimeField Appointment.end_time received a naive datetime (2015-11-18 00:00:00) while time zone support is active.
+  RuntimeWarning)
+
+11/08/2015 12:31:30 PM C:\Python34\lib\site-packages\django\core\management\commands\syncdb.py:24: RemovedInDjango19Warning: The syncdb command will be removed in Django 1.9
+  warnings.warn("The syncdb command will be removed in Django 1.9", RemovedInDjango19Warning)
+
+11/08/2015 12:34:19 PM C:\Python34\lib\site-packages\django\core\management\commands\syncdb.py:24: RemovedInDjango19Warning: The syncdb command will be removed in Django 1.9
+  warnings.warn("The syncdb command will be removed in Django 1.9", RemovedInDjango19Warning)
+
+11/08/2015 12:44:54 PM C:\Python34\lib\site-packages\django\core\management\commands\syncdb.py:24: RemovedInDjango19Warning: The syncdb command will be removed in Django 1.9
+  warnings.warn("The syncdb command will be removed in Django 1.9", RemovedInDjango19Warning)
+
+11/08/2015 01:16:53 PM C:\Python34\lib\site-packages\django\core\management\commands\syncdb.py:24: RemovedInDjango19Warning: The syncdb command will be removed in Django 1.9
+  warnings.warn("The syncdb command will be removed in Django 1.9", RemovedInDjango19Warning)
+
+11/08/2015 01:20:21 PM C:\Python34\lib\site-packages\django\core\management\commands\syncdb.py:24: RemovedInDjango19Warning: The syncdb command will be removed in Django 1.9
+  warnings.warn("The syncdb command will be removed in Django 1.9", RemovedInDjango19Warning)
+
+11/08/2015 01:21:11 PM C:\Python34\lib\site-packages\django\core\management\commands\syncdb.py:24: RemovedInDjango19Warning: The syncdb command will be removed in Django 1.9
+  warnings.warn("The syncdb command will be removed in Django 1.9", RemovedInDjango19Warning)
+
+11/08/2015 05:19:06 PM E:\Program Files (x86)\Python\lib\site-packages\django\core\management\commands\syncdb.py:24: RemovedInDjango19Warning: The syncdb command will be removed in Django 1.9
+  warnings.warn("The syncdb command will be removed in Django 1.9", RemovedInDjango19Warning)
+
+11/08/2015 05:59:09 PM E:\Program Files (x86)\Python\lib\site-packages\django\db\backends\sqlite3\base.py:57: RuntimeWarning: SQLite received a naive datetime (2015-11-08 17:59:09.850521) while time zone support is active.
+  RuntimeWarning)
+
+11/08/2015 05:59:09 PM No One wrote a prescription of 3 of Poop forLove.
+11/08/2015 05:59:19 PM E:\Program Files (x86)\Python\lib\site-packages\django\db\backends\sqlite3\base.py:57: RuntimeWarning: SQLite received a naive datetime (2015-11-08 17:59:19.672252) while time zone support is active.
+  RuntimeWarning)
+
+11/08/2015 05:59:19 PM No One viewed Jane Doe and House and John Doe and Patient1 and Patient2 and gj and Love's prescription of 5 days refills of 200 mg of Ibuprofen and 3 weeks refills of 500 mg of Acetaminophen and 5 days refills of 500mg of Adderall and Refill1 refills of Dose1 of Medicine1 and Refill2 refills of Dose2 of Medication2 and sr refills of 3tdh of gdn and 199 refills of 3 of Poop.
+11/08/2015 06:00:12 PM E:\Program Files (x86)\Python\lib\site-packages\django\db\backends\sqlite3\base.py:57: RuntimeWarning: SQLite received a naive datetime (2015-11-08 18:00:12.349659) while time zone support is active.
+  RuntimeWarning)
+
+11/08/2015 06:00:12 PM No One viewed House and John Doe and Patient1 and Patient2 and gj and Love's prescription of 3 weeks refills of 500 mg of Acetaminophen and 5 days refills of 500mg of Adderall and Refill1 refills of Dose1 of Medicine1 and Refill2 refills of Dose2 of Medication2 and sr refills of 3tdh of gdn and 199 refills of 3 of Poop.
+11/08/2015 06:00:25 PM E:\Program Files (x86)\Python\lib\site-packages\django\db\backends\sqlite3\base.py:57: RuntimeWarning: SQLite received a naive datetime (2015-11-08 18:00:25.442661) while time zone support is active.
+  RuntimeWarning)
+
+11/08/2015 06:00:25 PM No One viewed House and Patient1 and Patient2 and gj and Love and John's prescription of 3 weeks refills of 500 mg of Acetaminophen and Refill1 refills of Dose1 of Medicine1 and Refill2 refills of Dose2 of Medication2 and sr refills of 3tdh of gdn and 199 refills of 3 of Poop and 5 refills of 500mg of add.
+11/08/2015 06:00:49 PM E:\Program Files (x86)\Python\lib\site-packages\django\db\backends\sqlite3\base.py:57: RuntimeWarning: SQLite received a naive datetime (2015-11-08 18:00:49.527677) while time zone support is active.
+  RuntimeWarning)
+
+11/08/2015 06:00:49 PM No One viewed Patient1 and Patient2 and gj and Love and John and House's prescription of Refill1 refills of Dose1 of Medicine1 and Refill2 refills of Dose2 of Medication2 and sr refills of 3tdh of gdn and 199 refills of 3 of Poop and 5 refills of 500mg of add and 3 refills of 0 of Acetaminophen.
+11/08/2015 06:11:50 PM E:\Program Files (x86)\Python\lib\site-packages\django\core\management\commands\syncdb.py:24: RemovedInDjango19Warning: The syncdb command will be removed in Django 1.9
+  warnings.warn("The syncdb command will be removed in Django 1.9", RemovedInDjango19Warning)
+
+11/08/2015 06:59:18 PM E:\Program Files (x86)\Python\lib\site-packages\django\core\management\commands\syncdb.py:24: RemovedInDjango19Warning: The syncdb command will be removed in Django 1.9
+  warnings.warn("The syncdb command will be removed in Django 1.9", RemovedInDjango19Warning)
+
+11/08/2015 09:51:36 PM C:\Python343\lib\site-packages\django\db\backends\sqlite3\base.py:57: RuntimeWarning: SQLite received a naive datetime (2015-11-08 21:51:36.174771) while time zone support is active.
+  RuntimeWarning)
+
+11/08/2015 09:51:36 PM cxm7007 edited Pat3's prescription of dose3 of med3.
+11/08/2015 09:53:38 PM C:\Python343\lib\site-packages\django\db\backends\sqlite3\base.py:57: RuntimeWarning: SQLite received a naive datetime (2015-11-08 21:53:38.475766) while time zone support is active.
+  RuntimeWarning)
+
+11/08/2015 09:53:38 PM cxm7007 viewed Jane Doe and House and John Doe and Patient1 and Patient2 and Pat3's prescription of 5 days refills of 200 mg of Ibuprofen and 3 weeks refills of 500 mg of Acetaminophen and 5 days refills of 500mg of Adderall and Refill1 refills of Dose1 of Medicine1 and Refill2 refills of Dose2 of Medication2 and refill4 refills of dose3 of med3.
+11/15/2015 01:07:35 PM C:\Python343\lib\site-packages\django\db\backends\sqlite3\base.py:57: RuntimeWarning: SQLite received a naive datetime (2015-11-15 13:07:35.159141) while time zone support is active.
+  RuntimeWarning)
+
+11/15/2015 01:07:35 PM  removed a prescription of med3 for Pat3.
+11/29/2015 07:40:25 PM C:\Python343\lib\site-packages\django\core\management\commands\syncdb.py:24: RemovedInDjango19Warning: The syncdb command will be removed in Django 1.9
+  warnings.warn("The syncdb command will be removed in Django 1.9", RemovedInDjango19Warning)
+
+11/29/2015 08:19:40 PM C:\Python343\lib\site-packages\django\core\management\commands\syncdb.py:24: RemovedInDjango19Warning: The syncdb command will be removed in Django 1.9
+  warnings.warn("The syncdb command will be removed in Django 1.9", RemovedInDjango19Warning)
+
+<<<<<<< .mine
+12/04/2015 05:19:39 PM C:\Python34\lib\site-packages\django\db\backends\sqlite3\base.py:57: RuntimeWarning: SQLite received a naive datetime (2015-12-04 17:19:39.370093) while time zone support is active.
+  RuntimeWarning)
+
+12/04/2015 05:19:39 PM D@d.com logged on.
+12/04/2015 05:27:02 PM C:\Python34\lib\site-packages\django\db\backends\sqlite3\base.py:57: RuntimeWarning: SQLite received a naive datetime (2015-12-04 17:27:02.844602) while time zone support is active.
+  RuntimeWarning)
+
+12/04/2015 05:27:02 PM D@d.com logged on.
+12/04/2015 05:28:58 PM C:\Python34\lib\site-packages\django\db\backends\sqlite3\base.py:57: RuntimeWarning: SQLite received a naive datetime (2015-12-04 17:28:58.214968) while time zone support is active.
+  RuntimeWarning)
+
+12/04/2015 05:28:58 PM D@d.com viewed patient_name[:-5]'s prescription of 6 refills of 200 of Ibuprofen and 90 refills of 6mg of advil.
+12/04/2015 05:34:47 PM C:\Python34\lib\site-packages\django\db\backends\sqlite3\base.py:57: RuntimeWarning: SQLite received a naive datetime (2015-12-04 17:34:47.803747) while time zone support is active.
+  RuntimeWarning)
+
+12/04/2015 05:34:47 PM D@d.com viewed patient_name[:-5]'s prescription of 6 refills of 200 of Ibuprofen and 90 refills of 6mg of advil.
+12/04/2015 05:37:01 PM C:\Python34\lib\site-packages\django\db\backends\sqlite3\base.py:57: RuntimeWarning: SQLite received a naive datetime (2015-12-04 17:37:01.767189) while time zone support is active.
+  RuntimeWarning)
+
+12/04/2015 05:37:01 PM D@d.com viewed patient_name[:-5]'s prescription of 6 refills of 200 of Ibuprofen and 90 refills of 6mg of advil.
+12/04/2015 05:40:13 PM C:\Python34\lib\site-packages\django\db\backends\sqlite3\base.py:57: RuntimeWarning: SQLite received a naive datetime (2015-12-04 17:40:13.415955) while time zone support is active.
+  RuntimeWarning)
+
+12/04/2015 05:40:13 PM D@d.com viewed patient_name[:-5]'s prescription of 6 refills of 200 of Ibuprofen and 90 refills of 6mg of advil.
+12/04/2015 05:41:49 PM C:\Python34\lib\site-packages\django\db\backends\sqlite3\base.py:57: RuntimeWarning: SQLite received a naive datetime (2015-12-04 17:41:49.166089) while time zone support is active.
+  RuntimeWarning)
+
+12/04/2015 05:41:49 PM D@d.com uploaded 1 test results for Patient object.
+12/04/2015 05:41:51 PM C:\Python34\lib\site-packages\django\db\backends\sqlite3\base.py:57: RuntimeWarning: SQLite received a naive datetime (2015-12-04 17:41:51.116121) while time zone support is active.
+  RuntimeWarning)
+
+12/04/2015 05:41:51 PM D@d.com viewed 1 test results for Patient object.
+12/04/2015 05:43:26 PM C:\Python34\lib\site-packages\django\db\backends\sqlite3\base.py:57: RuntimeWarning: SQLite received a naive datetime (2015-12-04 17:43:26.344210) while time zone support is active.
+  RuntimeWarning)
+
+12/04/2015 05:43:26 PM D@d.com viewed patient_name[:-5]'s prescription of 6 refills of 200 of Ibuprofen and 90 refills of 6mg of advil.
+12/04/2015 05:45:40 PM C:\Python34\lib\site-packages\django\db\backends\sqlite3\base.py:57: RuntimeWarning: SQLite received a naive datetime (2015-12-04 17:45:40.395832) while time zone support is active.
+  RuntimeWarning)
+
+12/04/2015 05:45:40 PM D@d.com uploaded 2 test results for Patient object.
+12/04/2015 05:51:29 PM C:\Python34\lib\site-packages\django\db\backends\sqlite3\base.py:57: RuntimeWarning: SQLite received a naive datetime (2015-12-04 17:51:29.079150) while time zone support is active.
+  RuntimeWarning)
+
+12/04/2015 05:51:29 PM D@d.com viewed patient_name[:-5]'s prescription of 6 refills of 200 of Ibuprofen and 90 refills of 6mg of advil and 2 refills of 2 of 2 and ref refills of dose of med.
+12/04/2015 05:52:02 PM C:\Python34\lib\site-packages\django\db\backends\sqlite3\base.py:57: RuntimeWarning: SQLite received a naive datetime (2015-12-04 17:52:02.094560) while time zone support is active.
+  RuntimeWarning)
+
+12/04/2015 05:52:02 PM D@d.com uploaded newTest test results for Patient object.
+12/04/2015 05:52:03 PM C:\Python34\lib\site-packages\django\db\backends\sqlite3\base.py:57: RuntimeWarning: SQLite received a naive datetime (2015-12-04 17:52:03.833250) while time zone support is active.
+  RuntimeWarning)
+
+12/04/2015 05:52:03 PM D@d.com viewed 1, and 2, and newTest test results for Patient object.
+12/04/2015 05:58:38 PM C:\Python34\lib\site-packages\django\db\backends\sqlite3\base.py:57: RuntimeWarning: SQLite received a naive datetime (2015-12-04 17:58:38.704910) while time zone support is active.
+  RuntimeWarning)
+
+12/04/2015 05:58:38 PM D@d.com viewed patient_name[:-5]'s prescription of 6 refills of 200 of Ibuprofen and 90 refills of 6mg of advil and 2 refills of 2 of 2 and ref refills of dose of med.
+12/04/2015 06:01:25 PM C:\Python34\lib\site-packages\django\db\backends\sqlite3\base.py:57: RuntimeWarning: SQLite received a naive datetime (2015-12-04 18:01:25.933521) while time zone support is active.
+  RuntimeWarning)
+
+12/04/2015 06:01:26 PM D@d.com viewed patient_name[:-5]'s prescription of 6 refills of 200 of Ibuprofen and 90 refills of 6mg of advil and 2 refills of 2 of 2 and ref refills of dose of med.
+12/04/2015 06:02:23 PM C:\Python34\lib\site-packages\django\db\backends\sqlite3\base.py:57: RuntimeWarning: SQLite received a naive datetime (2015-12-04 18:02:23.998411) while time zone support is active.
+  RuntimeWarning)
+
+12/04/2015 06:02:24 PM D@d.com viewed patient_name[:-5]'s prescription of 6 refills of 200 of Ibuprofen and 90 refills of 6mg of advil and 2 refills of 2 of 2 and ref refills of dose of med.
+12/04/2015 06:03:42 PM C:\Python34\lib\site-packages\django\core\management\commands\syncdb.py:24: RemovedInDjango19Warning: The syncdb command will be removed in Django 1.9
+  warnings.warn("The syncdb command will be removed in Django 1.9", RemovedInDjango19Warning)
+
+12/04/2015 06:04:36 PM C:\Python34\lib\site-packages\django\core\management\commands\syncdb.py:24: RemovedInDjango19Warning: The syncdb command will be removed in Django 1.9
+  warnings.warn("The syncdb command will be removed in Django 1.9", RemovedInDjango19Warning)
+
+12/04/2015 06:04:57 PM C:\Python34\lib\site-packages\django\core\management\commands\syncdb.py:24: RemovedInDjango19Warning: The syncdb command will be removed in Django 1.9
+  warnings.warn("The syncdb command will be removed in Django 1.9", RemovedInDjango19Warning)
+
+12/04/2015 06:05:54 PM C:\Python34\lib\site-packages\django\core\management\commands\syncdb.py:24: RemovedInDjango19Warning: The syncdb command will be removed in Django 1.9
+  warnings.warn("The syncdb command will be removed in Django 1.9", RemovedInDjango19Warning)
+
+12/04/2015 06:06:08 PM C:\Python34\lib\site-packages\django\db\backends\sqlite3\base.py:57: RuntimeWarning: SQLite received a naive datetime (2015-12-04 18:06:08.577314) while time zone support is active.
+  RuntimeWarning)
+
+12/04/2015 06:06:08 PM D@d.com viewed patient_name[:-5]'s prescription of 22 refills of 2 of 2.
+12/04/2015 06:06:37 PM C:\Python34\lib\site-packages\django\template\defaulttags.py:66: UserWarning: A {% csrf_token %} was used in a template, but the context did not provide the value.  This is usually caused by not using RequestContext.
+  "A {% csrf_token %} was used in a template, but the context "
+
+12/04/2015 06:07:52 PM C:\Python34\lib\site-packages\django\db\backends\sqlite3\base.py:57: RuntimeWarning: SQLite received a naive datetime (2015-12-04 18:07:52.609915) while time zone support is active.
+  RuntimeWarning)
+
+12/04/2015 06:07:52 PM D@d.com logged on.
+12/04/2015 06:08:09 PM C:\Python34\lib\site-packages\django\db\backends\sqlite3\base.py:57: RuntimeWarning: SQLite received a naive datetime (2015-12-04 18:08:09.137704) while time zone support is active.
+  RuntimeWarning)
+
+12/04/2015 06:08:09 PM D@d.com viewed patient_name[:-5]'s prescription of 22 refills of 2 of 2 and refills for PT pt refills of as of meds.
+||||||| .r389
+=======
+11/30/2015 11:09:00 PM C:\Python343\lib\site-packages\django\core\management\commands\syncdb.py:24: RemovedInDjango19Warning: The syncdb command will be removed in Django 1.9
+  warnings.warn("The syncdb command will be removed in Django 1.9", RemovedInDjango19Warning)
+
+12/01/2015 12:19:17 PM C:\Python343\lib\site-packages\django\core\management\commands\syncdb.py:24: RemovedInDjango19Warning: The syncdb command will be removed in Django 1.9
+  warnings.warn("The syncdb command will be removed in Django 1.9", RemovedInDjango19Warning)
+
+12/01/2015 12:22:04 PM C:\Python343\lib\site-packages\django\db\backends\sqlite3\base.py:57: RuntimeWarning: SQLite received a naive datetime (2015-12-01 12:22:04.701559) while time zone support is active.
+  RuntimeWarning)
+
+12/01/2015 12:22:04 PM doctor@doctor.com viewed patient_name[:-5]'s prescription of 6 refills of 200 of Ibuprofen and 90 refills of 6mg of advil.
+12/01/2015 12:23:09 PM C:\Python343\lib\site-packages\django\db\backends\sqlite3\base.py:57: RuntimeWarning: SQLite received a naive datetime (2015-12-01 12:23:09.228250) while time zone support is active.
+  RuntimeWarning)
+
+12/01/2015 12:23:09 PM patient@patient.com viewed patient_name[:-5]'s prescription of 6 refills of 200 of Ibuprofen and 90 refills of 6mg of advil.
+12/01/2015 12:24:14 PM C:\Python343\lib\site-packages\django\db\backends\sqlite3\base.py:57: RuntimeWarning: SQLite received a naive datetime (2015-12-01 12:24:14.349975) while time zone support is active.
+  RuntimeWarning)
+
+12/01/2015 12:24:14 PM patient@patient.com viewed patient_name[:-5]'s prescription of 6 refills of 200 of Ibuprofen and 90 refills of 6mg of advil.
+12/02/2015 07:26:59 PM C:\Python343\lib\site-packages\django\db\backends\sqlite3\base.py:57: RuntimeWarning: SQLite received a naive datetime (2015-12-02 19:26:59.659722) while time zone support is active.
+  RuntimeWarning)
+
+12/02/2015 07:26:59 PM doctor@doctor.com viewed patient_name[:-5]'s prescription of 6 refills of 200 of Ibuprofen and 90 refills of 6mg of advil.
+12/02/2015 07:36:39 PM C:\Python343\lib\site-packages\django\db\backends\sqlite3\base.py:57: RuntimeWarning: SQLite received a naive datetime (2015-12-02 19:36:39.585892) while time zone support is active.
+  RuntimeWarning)
+
+12/02/2015 07:36:39 PM doctor@doctor.com viewed patient_name[:-5]'s prescription of 6 refills of 200 of Ibuprofen and 90 refills of 6mg of advil.
+12/02/2015 07:44:16 PM C:\Python343\lib\site-packages\django\template\defaulttags.py:66: UserWarning: A {% csrf_token %} was used in a template, but the context did not provide the value.  This is usually caused by not using RequestContext.
+  "A {% csrf_token %} was used in a template, but the context "
+
+12/02/2015 07:47:32 PM C:\Python343\lib\site-packages\django\db\backends\sqlite3\base.py:57: RuntimeWarning: SQLite received a naive datetime (2015-12-02 19:47:32.220220) while time zone support is active.
+  RuntimeWarning)
+
+12/02/2015 07:47:32 PM doctor@doctor.com uploaded dumb test results for Patient object.
+12/02/2015 08:16:08 PM C:\Python343\lib\site-packages\django\template\defaulttags.py:66: UserWarning: A {% csrf_token %} was used in a template, but the context did not provide the value.  This is usually caused by not using RequestContext.
+  "A {% csrf_token %} was used in a template, but the context "
+
+12/03/2015 10:29:57 PM C:\Python343\lib\site-packages\django\db\backends\sqlite3\base.py:57: RuntimeWarning: SQLite received a naive datetime (2015-12-03 22:29:57.185203) while time zone support is active.
+  RuntimeWarning)
+
+12/03/2015 10:29:57 PM doctor@doctor.com logged on.
+12/03/2015 10:38:07 PM C:\Python343\lib\site-packages\django\template\defaulttags.py:66: UserWarning: A {% csrf_token %} was used in a template, but the context did not provide the value.  This is usually caused by not using RequestContext.
+  "A {% csrf_token %} was used in a template, but the context "
+
+12/03/2015 10:39:32 PM C:\Python343\lib\site-packages\django\db\backends\sqlite3\base.py:57: RuntimeWarning: SQLite received a naive datetime (2015-12-03 22:39:32.426105) while time zone support is active.
+  RuntimeWarning)
+
+12/03/2015 10:39:32 PM admin@admin.com logged on.
+12/03/2015 10:44:20 PM C:\Python343\lib\site-packages\django\db\backends\sqlite3\base.py:57: RuntimeWarning: SQLite received a naive datetime (2015-12-03 22:44:20.728595) while time zone support is active.
+  RuntimeWarning)
+
+12/03/2015 10:44:20 PM doctor@doctor.com logged on.
+12/03/2015 10:44:28 PM C:\Python343\lib\site-packages\django\db\backends\sqlite3\base.py:57: RuntimeWarning: SQLite received a naive datetime (2015-12-03 22:44:28.084015) while time zone support is active.
+  RuntimeWarning)
+
+12/03/2015 10:44:28 PM doctor@doctor.com viewed patient_name[:-5]'s prescription of 6 refills of 200 of Ibuprofen and 90 refills of 6mg of advil.
+12/03/2015 10:44:53 PM C:\Python343\lib\site-packages\django\db\backends\sqlite3\base.py:57: RuntimeWarning: SQLite received a naive datetime (2015-12-03 22:44:53.300458) while time zone support is active.
+  RuntimeWarning)
+
+12/03/2015 10:44:53 PM doctor@doctor.com viewed  test results for Patient object.
+12/03/2015 10:44:57 PM C:\Python343\lib\site-packages\django\db\backends\sqlite3\base.py:57: RuntimeWarning: SQLite received a naive datetime (2015-12-03 22:44:57.165679) while time zone support is active.
+  RuntimeWarning)
+
+12/03/2015 10:44:57 PM doctor@doctor.com viewed dumb test results for Patient object.
+12/03/2015 10:55:16 PM C:\Python343\lib\site-packages\django\db\backends\sqlite3\base.py:57: RuntimeWarning: SQLite received a naive datetime (2015-12-03 22:55:16.412098) while time zone support is active.
+  RuntimeWarning)
+
+12/03/2015 10:55:16 PM doctor@doctor.com viewed patient_name[:-5]'s prescription of 6 refills of 200 of Ibuprofen and 90 refills of 6mg of advil.
+12/03/2015 10:56:25 PM C:\Python343\lib\site-packages\django\db\backends\sqlite3\base.py:57: RuntimeWarning: SQLite received a naive datetime (2015-12-03 22:56:25.827068) while time zone support is active.
+  RuntimeWarning)
+
+12/03/2015 10:56:25 PM doctor@doctor.com viewed patient_name[:-5]'s prescription of 6 refills of 200 of Ibuprofen and 90 refills of 6mg of advil.
+12/03/2015 10:57:47 PM C:\Python343\lib\site-packages\django\db\backends\sqlite3\base.py:57: RuntimeWarning: SQLite received a naive datetime (2015-12-03 22:57:47.612746) while time zone support is active.
+  RuntimeWarning)
+
+12/03/2015 10:57:47 PM doctor@doctor.com viewed dumb test results for Patient object.
+12/03/2015 10:59:54 PM C:\Python343\lib\site-packages\django\db\backends\sqlite3\base.py:57: RuntimeWarning: SQLite received a naive datetime (2015-12-03 22:59:54.523005) while time zone support is active.
+  RuntimeWarning)
+
+12/03/2015 10:59:54 PM doctor@doctor.com viewed patient_name[:-5]'s prescription of 6 refills of 200 of Ibuprofen and 90 refills of 6mg of advil.
+12/03/2015 11:00:09 PM C:\Python343\lib\site-packages\django\db\backends\sqlite3\base.py:57: RuntimeWarning: SQLite received a naive datetime (2015-12-03 23:00:09.276849) while time zone support is active.
+  RuntimeWarning)
+
+12/03/2015 11:00:09 PM doctor@doctor.com viewed patient_name[:-5]'s prescription of 6 refills of 200 of Ibuprofen and 90 refills of 6mg of advil.
+12/03/2015 11:12:05 PM C:\Python343\lib\site-packages\django\db\backends\sqlite3\base.py:57: RuntimeWarning: SQLite received a naive datetime (2015-12-03 23:12:05.193797) while time zone support is active.
+  RuntimeWarning)
+
+12/03/2015 11:12:05 PM doctor@doctor.com viewed patient_name[:-5]'s prescription of 6 refills of 200 of Ibuprofen and 90 refills of 6mg of advil.
+12/03/2015 11:12:36 PM C:\Python343\lib\site-packages\django\db\backends\sqlite3\base.py:57: RuntimeWarning: SQLite received a naive datetime (2015-12-03 23:12:36.101564) while time zone support is active.
+  RuntimeWarning)
+
+12/03/2015 11:12:36 PM doctor@doctor.com viewed patient_name[:-5]'s prescription of 6 refills of 200 of Ibuprofen and 90 refills of 6mg of advil.
+12/03/2015 11:12:41 PM C:\Python343\lib\site-packages\django\db\backends\sqlite3\base.py:57: RuntimeWarning: SQLite received a naive datetime (2015-12-03 23:12:41.011845) while time zone support is active.
+  RuntimeWarning)
+
+12/03/2015 11:12:41 PM doctor@doctor.com viewed patient_name[:-5]'s prescription of 6 refills of 200 of Ibuprofen and 90 refills of 6mg of advil.
+12/03/2015 11:21:18 PM C:\Python343\lib\site-packages\django\db\backends\sqlite3\base.py:57: RuntimeWarning: SQLite received a naive datetime (2015-12-03 23:21:18.617451) while time zone support is active.
+  RuntimeWarning)
+
+12/03/2015 11:21:18 PM doctor@doctor.com viewed patient_name[:-5]'s prescription of 6 refills of 200 of Ibuprofen and 90 refills of 6mg of advil.
+12/03/2015 11:21:58 PM C:\Python343\lib\site-packages\django\db\backends\sqlite3\base.py:57: RuntimeWarning: SQLite received a naive datetime (2015-12-03 23:21:58.981759) while time zone support is active.
+  RuntimeWarning)
+
+12/03/2015 11:21:58 PM doctor@doctor.com viewed patient_name[:-5]'s prescription of 6 refills of 200 of Ibuprofen and 90 refills of 6mg of advil.
+12/03/2015 11:22:16 PM C:\Python343\lib\site-packages\django\db\backends\sqlite3\base.py:57: RuntimeWarning: SQLite received a naive datetime (2015-12-03 23:22:16.835781) while time zone support is active.
+  RuntimeWarning)
+
+12/03/2015 11:22:16 PM doctor@doctor.com viewed patient_name[:-5]'s prescription of 6 refills of 200 of Ibuprofen and 90 refills of 6mg of advil.
+12/03/2015 11:22:35 PM C:\Python343\lib\site-packages\django\db\backends\sqlite3\base.py:57: RuntimeWarning: SQLite received a naive datetime (2015-12-03 23:22:35.472847) while time zone support is active.
+  RuntimeWarning)
+
+12/03/2015 11:22:35 PM doctor@doctor.com viewed dumb test results for Patient object.
+12/03/2015 11:25:10 PM C:\Python343\lib\site-packages\django\db\backends\sqlite3\base.py:57: RuntimeWarning: SQLite received a naive datetime (2015-12-03 23:25:10.535716) while time zone support is active.
+  RuntimeWarning)
+
+12/03/2015 11:25:10 PM doctor@doctor.com viewed patient_name[:-5]'s prescription of 6 refills of 200 of Ibuprofen and 90 refills of 6mg of advil.
+12/03/2015 11:27:55 PM C:\Python343\lib\site-packages\django\db\backends\sqlite3\base.py:57: RuntimeWarning: SQLite received a naive datetime (2015-12-03 23:27:55.505151) while time zone support is active.
+  RuntimeWarning)
+
+12/03/2015 11:27:55 PM doctor@doctor.com viewed patient_name[:-5]'s prescription of 6 refills of 200 of Ibuprofen and 90 refills of 6mg of advil.
+12/03/2015 11:28:15 PM C:\Python343\lib\site-packages\django\db\backends\sqlite3\base.py:57: RuntimeWarning: SQLite received a naive datetime (2015-12-03 23:28:15.840314) while time zone support is active.
+  RuntimeWarning)
+
+12/03/2015 11:28:15 PM doctor@doctor.com viewed patient_name[:-5]'s prescription of 6 refills of 200 of Ibuprofen and 90 refills of 6mg of advil.
+12/03/2015 11:34:36 PM C:\Python343\lib\site-packages\django\db\backends\sqlite3\base.py:57: RuntimeWarning: SQLite received a naive datetime (2015-12-03 23:34:36.440083) while time zone support is active.
+  RuntimeWarning)
+
+12/03/2015 11:34:36 PM doctor@doctor.com viewed patient_name[:-5]'s prescription of 6 refills of 200 of Ibuprofen and 90 refills of 6mg of advil.
+12/03/2015 11:34:59 PM C:\Python343\lib\site-packages\django\db\backends\sqlite3\base.py:57: RuntimeWarning: SQLite received a naive datetime (2015-12-03 23:34:59.452400) while time zone support is active.
+  RuntimeWarning)
+
+12/03/2015 11:34:59 PM doctor@doctor.com viewed patient_name[:-5]'s prescription of 6 refills of 200 of Ibuprofen and 90 refills of 6mg of advil.
+12/03/2015 11:36:58 PM C:\Python343\lib\site-packages\django\core\management\commands\syncdb.py:24: RemovedInDjango19Warning: The syncdb command will be removed in Django 1.9
+  warnings.warn("The syncdb command will be removed in Django 1.9", RemovedInDjango19Warning)
+
+12/03/2015 11:37:52 PM C:\Python343\lib\site-packages\django\db\backends\sqlite3\base.py:57: RuntimeWarning: SQLite received a naive datetime (2015-12-03 23:37:52.564301) while time zone support is active.
+  RuntimeWarning)
+
+12/03/2015 11:37:52 PM doctor@doctor.com viewed patient_name[:-5]'s prescription of 6 refills of 200 of Ibuprofen and 90 refills of 6mg of advil.
+12/03/2015 11:38:50 PM C:\Python343\lib\site-packages\django\db\backends\sqlite3\base.py:57: RuntimeWarning: SQLite received a naive datetime (2015-12-03 23:38:50.157595) while time zone support is active.
+  RuntimeWarning)
+
+12/03/2015 11:38:50 PM doctor@doctor.com viewed patient_name[:-5]'s prescription of 6 refills of 200 of Ibuprofen and 90 refills of 6mg of advil.
+12/04/2015 05:25:17 PM C:\Python343\lib\site-packages\django\db\backends\sqlite3\base.py:57: RuntimeWarning: SQLite received a naive datetime (2015-12-04 17:25:17.695799) while time zone support is active.
+  RuntimeWarning)
+
+12/04/2015 05:25:17 PM doctor@doctor.com viewed patient_name[:-5]'s prescription of 6 refills of 200 of Ibuprofen and 90 refills of 6mg of advil.
+12/04/2015 05:34:53 PM C:\Python343\lib\site-packages\django\core\management\commands\syncdb.py:24: RemovedInDjango19Warning: The syncdb command will be removed in Django 1.9
+  warnings.warn("The syncdb command will be removed in Django 1.9", RemovedInDjango19Warning)
+
+12/04/2015 05:36:11 PM C:\Python343\lib\site-packages\django\db\backends\sqlite3\base.py:57: RuntimeWarning: SQLite received a naive datetime (2015-12-04 17:36:11.371187) while time zone support is active.
+  RuntimeWarning)
+
+12/04/2015 05:36:11 PM doctor@doctor.com viewed patient_name[:-5]'s prescription of 6 refills of 200 of Ibuprofen and 90 refills of 6mg of advil.
+12/04/2015 05:48:37 PM C:\Python343\lib\site-packages\django\db\backends\sqlite3\base.py:57: RuntimeWarning: SQLite received a naive datetime (2015-12-04 17:48:37.635871) while time zone support is active.
+  RuntimeWarning)
+
+12/04/2015 05:48:37 PM doctor@doctor.com viewed patient_name[:-5]'s prescription of 6 refills of 200 of Ibuprofen and 90 refills of 6mg of advil.
+12/04/2015 05:53:23 PM C:\Python343\lib\site-packages\django\db\backends\sqlite3\base.py:57: RuntimeWarning: SQLite received a naive datetime (2015-12-04 17:53:23.263208) while time zone support is active.
+  RuntimeWarning)
+
+12/04/2015 05:53:23 PM doctor@doctor.com viewed patient_name[:-5]'s prescription of 6 refills of 200 of Ibuprofen and 90 refills of 6mg of advil.
+12/04/2015 05:56:01 PM C:\Python343\lib\site-packages\django\db\backends\sqlite3\base.py:57: RuntimeWarning: SQLite received a naive datetime (2015-12-04 17:56:01.003230) while time zone support is active.
+  RuntimeWarning)
+
+12/04/2015 05:56:01 PM doctor@doctor.com viewed patient_name[:-5]'s prescription of 6 refills of 200 of Ibuprofen and 90 refills of 6mg of advil and test refills of test of test.
+12/04/2015 05:56:36 PM C:\Python343\lib\site-packages\django\db\backends\sqlite3\base.py:57: RuntimeWarning: SQLite received a naive datetime (2015-12-04 17:56:36.317250) while time zone support is active.
+  RuntimeWarning)
+
+12/04/2015 05:56:36 PM doctor@doctor.com viewed patient_name[:-5]'s prescription of 6 refills of 200 of Ibuprofen and 90 refills of 6mg of advil and test refills of test of test.
+12/04/2015 05:56:55 PM C:\Python343\lib\site-packages\django\db\backends\sqlite3\base.py:57: RuntimeWarning: SQLite received a naive datetime (2015-12-04 17:56:55.234332) while time zone support is active.
+  RuntimeWarning)
+
+12/04/2015 05:56:55 PM doctor@doctor.com viewed patient_name[:-5]'s prescription of 6 refills of 200 of Ibuprofen and 90 refills of 6mg of advil and test refills of test of test and done refills of done of done.
+12/04/2015 05:58:05 PM C:\Python343\lib\site-packages\django\db\backends\sqlite3\base.py:57: RuntimeWarning: SQLite received a naive datetime (2015-12-04 17:58:05.471349) while time zone support is active.
+  RuntimeWarning)
+
+12/04/2015 05:58:05 PM doctor@doctor.com viewed patient_name[:-5]'s prescription of 6 refills of 200 of Ibuprofen and 90 refills of 6mg of advil and test refills of test of test and done refills of done of done and john refills of john of john.
+12/04/2015 05:59:07 PM C:\Python343\lib\site-packages\django\db\backends\sqlite3\base.py:57: RuntimeWarning: SQLite received a naive datetime (2015-12-04 17:59:07.752912) while time zone support is active.
+  RuntimeWarning)
+
+12/04/2015 05:59:07 PM doctor@doctor.com viewed patient_name[:-5]'s prescription of 6 refills of 200 of Ibuprofen and 90 refills of 6mg of advil and test refills of test of test and done refills of done of done and john refills of john of john and three refills of three of three.
+12/04/2015 05:59:31 PM C:\Python343\lib\site-packages\django\db\backends\sqlite3\base.py:57: RuntimeWarning: SQLite received a naive datetime (2015-12-04 17:59:31.164251) while time zone support is active.
+  RuntimeWarning)
+
+12/04/2015 05:59:31 PM doctor@doctor.com viewed patient_name[:-5]'s prescription of 6 refills of 200 of Ibuprofen and 90 refills of 6mg of advil and test refills of test of test and done refills of done of done and john refills of john of john and three refills of three of three.
+12/04/2015 06:00:01 PM C:\Python343\lib\site-packages\django\db\backends\sqlite3\base.py:57: RuntimeWarning: SQLite received a naive datetime (2015-12-04 18:00:01.114964) while time zone support is active.
+  RuntimeWarning)
+
+12/04/2015 06:00:01 PM doctor@doctor.com viewed patient_name[:-5]'s prescription of 6 refills of 200 of Ibuprofen and 90 refills of 6mg of advil and test refills of test of test and done refills of done of done and john refills of john of john and three refills of three of three and four refills of fld;ls of tfourt.
+12/04/2015 06:00:18 PM C:\Python343\lib\site-packages\django\db\backends\sqlite3\base.py:57: RuntimeWarning: SQLite received a naive datetime (2015-12-04 18:00:18.732971) while time zone support is active.
+  RuntimeWarning)
+
+12/04/2015 06:00:18 PM doctor@doctor.com viewed patient_name[:-5]'s prescription of 6 refills of 200 of Ibuprofen and 90 refills of 6mg of advil and test refills of test of test and done refills of done of done and john refills of john of john and three refills of three of three and four refills of fld;ls of tfourt and done refills of done of done.
+12/04/2015 06:00:39 PM C:\Python343\lib\site-packages\django\db\backends\sqlite3\base.py:57: RuntimeWarning: SQLite received a naive datetime (2015-12-04 18:00:39.516160) while time zone support is active.
+  RuntimeWarning)
+
+12/04/2015 06:00:39 PM doctor@doctor.com viewed patient_name[:-5]'s prescription of 6 refills of 200 of Ibuprofen and 90 refills of 6mg of advil and test refills of test of test and done refills of done of done and john refills of john of john and three refills of three of three and four refills of fld;ls of tfourt and done refills of done of done and ldksja;lj;l refills of dlskfdlf of ldfalks.
+12/04/2015 06:01:07 PM C:\Python343\lib\site-packages\django\db\backends\sqlite3\base.py:57: RuntimeWarning: SQLite received a naive datetime (2015-12-04 18:01:07.117739) while time zone support is active.
+  RuntimeWarning)
+
+12/04/2015 06:01:07 PM doctor@doctor.com viewed patient_name[:-5]'s prescription of 6 refills of 200 of Ibuprofen and 90 refills of 6mg of advil and test refills of test of test and done refills of done of done and john refills of john of john and three refills of three of three and four refills of fld;ls of tfourt and done refills of done of done and ldksja;lj;l refills of dlskfdlf of ldfalks and gone refills of gone of gone.
+>>>>>>> .r392
+12/04/2015 07:31:32 PM C:\Python34\lib\site-packages\django\core\management\commands\syncdb.py:24: RemovedInDjango19Warning: The syncdb command will be removed in Django 1.9
+  warnings.warn("The syncdb command will be removed in Django 1.9", RemovedInDjango19Warning)
+
+12/04/2015 07:40:17 PM C:\Python34\lib\site-packages\django\template\defaulttags.py:66: UserWarning: A {% csrf_token %} was used in a template, but the context did not provide the value.  This is usually caused by not using RequestContext.
+  "A {% csrf_token %} was used in a template, but the context "
+
+12/04/2015 08:14:16 PM C:\Python34\lib\site-packages\django\template\defaulttags.py:66: UserWarning: A {% csrf_token %} was used in a template, but the context did not provide the value.  This is usually caused by not using RequestContext.
+  "A {% csrf_token %} was used in a template, but the context "
+
+12/04/2015 08:14:40 PM C:\Python34\lib\site-packages\django\db\backends\sqlite3\base.py:57: RuntimeWarning: SQLite received a naive datetime (2015-12-04 20:14:40.302059) while time zone support is active.
+  RuntimeWarning)
+
+12/04/2015 08:14:40 PM P@p.com logged on.
+12/04/2015 08:27:03 PM C:\Python34\lib\site-packages\django\core\management\commands\syncdb.py:24: RemovedInDjango19Warning: The syncdb command will be removed in Django 1.9
+  warnings.warn("The syncdb command will be removed in Django 1.9", RemovedInDjango19Warning)
+
+12/05/2015 11:17:54 AM C:\Python34\lib\site-packages\django\template\defaulttags.py:66: UserWarning: A {% csrf_token %} was used in a template, but the context did not provide the value.  This is usually caused by not using RequestContext.
+  "A {% csrf_token %} was used in a template, but the context "
+
+12/05/2015 11:18:13 AM C:\Python34\lib\site-packages\django\db\backends\sqlite3\base.py:57: RuntimeWarning: SQLite received a naive datetime (2015-12-05 11:18:13.815811) while time zone support is active.
+  RuntimeWarning)
+
+12/05/2015 11:18:13 AM P@p.com logged on.
+12/05/2015 12:00:57 PM C:\Python34\lib\site-packages\django\template\defaulttags.py:66: UserWarning: A {% csrf_token %} was used in a template, but the context did not provide the value.  This is usually caused by not using RequestContext.
+  "A {% csrf_token %} was used in a template, but the context "
+
+12/05/2015 12:01:20 PM C:\Python34\lib\site-packages\django\db\backends\sqlite3\base.py:57: RuntimeWarning: SQLite received a naive datetime (2015-12-05 12:01:20.882981) while time zone support is active.
+  RuntimeWarning)
+
+12/05/2015 12:01:21 PM P@p.com logged on.
+12/05/2015 12:02:27 PM C:\Python34\lib\site-packages\django\db\backends\sqlite3\base.py:57: RuntimeWarning: SQLite received a naive datetime (2015-12-05 12:02:27.869262) while time zone support is active.
+  RuntimeWarning)
+
+12/05/2015 12:02:27 PM PT@p.com logged on.
+12/05/2015 12:06:24 PM C:\Python34\lib\site-packages\django\db\backends\sqlite3\base.py:57: RuntimeWarning: SQLite received a naive datetime (2015-12-05 12:06:24.812782) while time zone support is active.
+  RuntimeWarning)
+
+12/05/2015 12:06:24 PM admin@admin.com logged on.
+12/05/2015 12:06:29 PM C:\Python34\lib\site-packages\django\template\defaulttags.py:66: UserWarning: A {% csrf_token %} was used in a template, but the context did not provide the value.  This is usually caused by not using RequestContext.
+  "A {% csrf_token %} was used in a template, but the context "
+
+12/05/2015 12:06:59 PM C:\Python34\lib\site-packages\django\db\backends\sqlite3\base.py:57: RuntimeWarning: SQLite received a naive datetime (2015-12-05 12:06:59.620202) while time zone support is active.
+  RuntimeWarning)
+
+12/05/2015 12:06:59 PM D@d.com logged on.
+12/05/2015 12:17:34 PM C:\Python34\lib\site-packages\django\db\backends\sqlite3\base.py:57: RuntimeWarning: SQLite received a naive datetime (2015-12-05 12:17:34.984149) while time zone support is active.
+  RuntimeWarning)
+
+12/05/2015 12:17:35 PM D@d.com viewed 1, and 2, and newTest test results for Patient object.
+12/05/2015 12:21:50 PM C:\Python34\lib\site-packages\django\db\backends\sqlite3\base.py:57: RuntimeWarning: SQLite received a naive datetime (2015-12-05 12:21:50.935632) while time zone support is active.
+  RuntimeWarning)
+
+12/05/2015 12:21:51 PM P@p.com logged on.
+12/05/2015 12:31:56 PM C:\Python34\lib\site-packages\django\core\management\commands\syncdb.py:24: RemovedInDjango19Warning: The syncdb command will be removed in Django 1.9
+  warnings.warn("The syncdb command will be removed in Django 1.9", RemovedInDjango19Warning)
+
+12/05/2015 12:32:36 PM C:\Python34\lib\site-packages\django\core\management\commands\syncdb.py:24: RemovedInDjango19Warning: The syncdb command will be removed in Django 1.9
+  warnings.warn("The syncdb command will be removed in Django 1.9", RemovedInDjango19Warning)
+
+12/05/2015 12:34:39 PM C:\Python34\lib\site-packages\django\db\backends\sqlite3\base.py:57: RuntimeWarning: SQLite received a naive datetime (2015-12-05 12:34:39.628483) while time zone support is active.
+  RuntimeWarning)
+
+12/05/2015 12:34:39 PM D@d.com logged on.
+12/05/2015 12:34:54 PM C:\Python34\lib\site-packages\django\template\defaulttags.py:66: UserWarning: A {% csrf_token %} was used in a template, but the context did not provide the value.  This is usually caused by not using RequestContext.
+  "A {% csrf_token %} was used in a template, but the context "
+
+12/05/2015 12:36:46 PM C:\Python34\lib\site-packages\django\template\defaulttags.py:66: UserWarning: A {% csrf_token %} was used in a template, but the context did not provide the value.  This is usually caused by not using RequestContext.
+  "A {% csrf_token %} was used in a template, but the context "
+
+12/05/2015 12:47:06 PM C:\Python34\lib\site-packages\django\template\defaulttags.py:66: UserWarning: A {% csrf_token %} was used in a template, but the context did not provide the value.  This is usually caused by not using RequestContext.
+  "A {% csrf_token %} was used in a template, but the context "
+
+12/05/2015 12:51:48 PM C:\Python34\lib\site-packages\django\template\defaulttags.py:66: UserWarning: A {% csrf_token %} was used in a template, but the context did not provide the value.  This is usually caused by not using RequestContext.
+  "A {% csrf_token %} was used in a template, but the context "
+
+12/05/2015 01:11:20 PM C:\Python34\lib\site-packages\django\db\backends\sqlite3\base.py:57: RuntimeWarning: SQLite received a naive datetime (2015-12-05 13:11:20.191144) while time zone support is active.
+  RuntimeWarning)
+
+12/05/2015 01:11:20 PM D@d.com logged on.
+12/05/2015 01:12:45 PM C:\Python34\lib\site-packages\django\db\backends\sqlite3\base.py:57: RuntimeWarning: SQLite received a naive datetime (2015-12-05 13:12:45.333794) while time zone support is active.
+  RuntimeWarning)
+
+12/05/2015 01:12:45 PM PD@p.com logged on.
+12/05/2015 01:12:52 PM C:\Python34\lib\site-packages\django\db\backends\sqlite3\base.py:57: RuntimeWarning: SQLite received a naive datetime (2015-12-05 13:12:52.491867) while time zone support is active.
+  RuntimeWarning)
+
+12/05/2015 01:12:52 PM D@d.com logged on.
+12/05/2015 01:17:28 PM C:\Python34\lib\site-packages\django\db\backends\sqlite3\base.py:57: RuntimeWarning: SQLite received a naive datetime (2015-12-05 13:17:28.612042) while time zone support is active.
+  RuntimeWarning)
+
+12/05/2015 01:17:28 PM PD@p.com logged on.
+12/05/2015 01:24:56 PM C:\Python34\lib\site-packages\django\db\models\sql\query.py:1155: RemovedInDjango19Warning: Passing callable arguments to queryset is deprecated.
+  value, lookups, used_joins = self.prepare_lookup_value(value, lookups, can_reuse, allow_joins)
+
+12/05/2015 01:28:09 PM C:\Python34\lib\site-packages\django\db\backends\sqlite3\base.py:57: RuntimeWarning: SQLite received a naive datetime (2015-12-05 13:28:09.615521) while time zone support is active.
+  RuntimeWarning)
+
+12/05/2015 01:28:09 PM PD@p.com logged on.
+12/05/2015 01:28:29 PM C:\Python34\lib\site-packages\django\db\backends\sqlite3\base.py:57: RuntimeWarning: SQLite received a naive datetime (2015-12-05 13:28:29.714489) while time zone support is active.
+  RuntimeWarning)
+
+12/05/2015 01:28:29 PM D@d.com logged on.
+12/05/2015 01:30:51 PM C:\Python34\lib\site-packages\django\db\backends\sqlite3\base.py:57: RuntimeWarning: SQLite received a naive datetime (2015-12-05 13:30:51.954688) while time zone support is active.
+  RuntimeWarning)
+
+12/05/2015 01:30:52 PM PD@p.com logged on.
+12/05/2015 01:34:04 PM C:\Python34\lib\site-packages\django\db\backends\sqlite3\base.py:57: RuntimeWarning: SQLite received a naive datetime (2015-12-05 13:34:04.423173) while time zone support is active.
+  RuntimeWarning)
+
+12/05/2015 01:34:04 PM D@d.com logged on.
+12/05/2015 01:36:35 PM C:\Python34\lib\site-packages\django\db\backends\sqlite3\base.py:57: RuntimeWarning: SQLite received a naive datetime (2015-12-05 13:36:35.486147) while time zone support is active.
+  RuntimeWarning)
+
+12/05/2015 01:36:35 PM P@p.com logged on.
+12/05/2015 01:37:13 PM C:\Python34\lib\site-packages\django\db\backends\sqlite3\base.py:57: RuntimeWarning: SQLite received a naive datetime (2015-12-05 13:37:13.268275) while time zone support is active.
+  RuntimeWarning)
+
+12/05/2015 01:37:13 PM D@d.com logged on.
+12/05/2015 01:38:43 PM C:\Python34\lib\site-packages\django\db\backends\sqlite3\base.py:57: RuntimeWarning: SQLite received a naive datetime (2015-12-05 13:38:43.865498) while time zone support is active.
+  RuntimeWarning)
+
+12/05/2015 01:38:43 PM N@n.com logged on.
+12/05/2015 01:44:15 PM C:\Python34\lib\site-packages\django\template\defaulttags.py:66: UserWarning: A {% csrf_token %} was used in a template, but the context did not provide the value.  This is usually caused by not using RequestContext.
+  "A {% csrf_token %} was used in a template, but the context "
+
+12/05/2015 01:57:32 PM C:\Python34\lib\site-packages\django\template\defaulttags.py:66: UserWarning: A {% csrf_token %} was used in a template, but the context did not provide the value.  This is usually caused by not using RequestContext.
+  "A {% csrf_token %} was used in a template, but the context "
+
+12/05/2015 01:58:30 PM C:\Python34\lib\site-packages\django\db\backends\sqlite3\base.py:57: RuntimeWarning: SQLite received a naive datetime (2015-12-05 13:58:30.332679) while time zone support is active.
+  RuntimeWarning)
+
+12/05/2015 01:58:30 PM doctor@doctor.com logged on.
+12/05/2015 02:05:51 PM C:\Python34\lib\site-packages\django\db\backends\sqlite3\base.py:57: RuntimeWarning: SQLite received a naive datetime (2015-12-05 14:05:51.207582) while time zone support is active.
+  RuntimeWarning)
+
+12/05/2015 02:05:51 PM PD@p.com logged on.
+12/05/2015 02:28:17 PM C:\Python34\lib\site-packages\django\template\defaulttags.py:66: UserWarning: A {% csrf_token %} was used in a template, but the context did not provide the value.  This is usually caused by not using RequestContext.
+  "A {% csrf_token %} was used in a template, but the context "
+
+12/05/2015 02:28:31 PM C:\Python34\lib\site-packages\django\db\backends\sqlite3\base.py:57: RuntimeWarning: SQLite received a naive datetime (2015-12-05 14:28:31.714213) while time zone support is active.
+  RuntimeWarning)
+
+12/05/2015 02:28:31 PM doctor@doctor.com logged on.
+12/05/2015 02:41:12 PM C:\Python34\lib\site-packages\django\db\backends\sqlite3\base.py:57: RuntimeWarning: SQLite received a naive datetime (2015-12-05 14:41:12.718797) while time zone support is active.
+  RuntimeWarning)
+
+12/05/2015 02:41:12 PM PD@p.com logged on.
+12/05/2015 02:50:06 PM C:\Python34\lib\site-packages\django\db\backends\sqlite3\base.py:57: RuntimeWarning: SQLite received a naive datetime (2015-12-05 14:50:06.245793) while time zone support is active.
+  RuntimeWarning)
+
+12/05/2015 02:50:06 PM P@p.com logged on.
+12/05/2015 03:29:09 PM C:\Python34\lib\site-packages\django\template\defaulttags.py:66: UserWarning: A {% csrf_token %} was used in a template, but the context did not provide the value.  This is usually caused by not using RequestContext.
+  "A {% csrf_token %} was used in a template, but the context "
+
+12/05/2015 03:32:55 PM C:\Python34\lib\site-packages\django\db\backends\sqlite3\base.py:57: RuntimeWarning: SQLite received a naive datetime (2015-12-05 15:32:55.376824) while time zone support is active.
+  RuntimeWarning)
+
+12/05/2015 03:32:55 PM PD@p.com logged on.
+12/05/2015 03:40:02 PM C:\Python34\lib\site-packages\django\db\backends\sqlite3\base.py:57: RuntimeWarning: SQLite received a naive datetime (2015-12-05 15:40:02.704316) while time zone support is active.
+  RuntimeWarning)
+
+12/05/2015 03:40:02 PM PD@p.com logged on.
+12/05/2015 03:41:09 PM C:\Python34\lib\site-packages\django\template\defaulttags.py:66: UserWarning: A {% csrf_token %} was used in a template, but the context did not provide the value.  This is usually caused by not using RequestContext.
+  "A {% csrf_token %} was used in a template, but the context "
+
+12/05/2015 03:58:55 PM C:\Python34\lib\site-packages\django\template\defaulttags.py:66: UserWarning: A {% csrf_token %} was used in a template, but the context did not provide the value.  This is usually caused by not using RequestContext.
+  "A {% csrf_token %} was used in a template, but the context "
+
+12/05/2015 04:31:07 PM C:\Python34\lib\site-packages\django\template\defaulttags.py:66: UserWarning: A {% csrf_token %} was used in a template, but the context did not provide the value.  This is usually caused by not using RequestContext.
+  "A {% csrf_token %} was used in a template, but the context "
+
+12/05/2015 04:33:51 PM C:\Python34\lib\site-packages\django\template\defaulttags.py:66: UserWarning: A {% csrf_token %} was used in a template, but the context did not provide the value.  This is usually caused by not using RequestContext.
+  "A {% csrf_token %} was used in a template, but the context "
+
+12/06/2015 03:20:53 PM C:\Python34\lib\site-packages\django\template\defaulttags.py:66: UserWarning: A {% csrf_token %} was used in a template, but the context did not provide the value.  This is usually caused by not using RequestContext.
+  "A {% csrf_token %} was used in a template, but the context "
+
+12/06/2015 03:21:41 PM C:\Python34\lib\site-packages\django\db\backends\sqlite3\base.py:57: RuntimeWarning: SQLite received a naive datetime (2015-12-06 15:21:41.889555) while time zone support is active.
+  RuntimeWarning)
+
+12/06/2015 03:21:41 PM doctor@doctor.com logged on.
+12/06/2015 04:10:34 PM C:\Python34\lib\site-packages\django\db\backends\sqlite3\base.py:57: RuntimeWarning: SQLite received a naive datetime (2015-12-06 16:10:34.669864) while time zone support is active.
+  RuntimeWarning)
+
+12/06/2015 04:10:34 PM D@d.com logged on.
+12/06/2015 04:11:31 PM C:\Python34\lib\site-packages\django\db\backends\sqlite3\base.py:57: RuntimeWarning: SQLite received a naive datetime (2015-12-06 16:11:31.832621) while time zone support is active.
+  RuntimeWarning)
+
+12/06/2015 04:11:31 PM D@d.com uploaded Test test results for Patient object.
+12/06/2015 04:11:43 PM C:\Python34\lib\site-packages\django\db\backends\sqlite3\base.py:57: RuntimeWarning: SQLite received a naive datetime (2015-12-06 16:11:43.488291) while time zone support is active.
+  RuntimeWarning)
+
+12/06/2015 04:11:43 PM D@d.com uploaded Test2 test results for Patient object.
+12/06/2015 04:11:45 PM C:\Python34\lib\site-packages\django\db\backends\sqlite3\base.py:57: RuntimeWarning: SQLite received a naive datetime (2015-12-06 16:11:45.805048) while time zone support is active.
+  RuntimeWarning)
+
+12/06/2015 04:11:45 PM D@d.com viewed 1, and 2, and newTest, and Test, and Test2 test results for Patient object.
+12/06/2015 04:12:05 PM C:\Python34\lib\site-packages\django\db\backends\sqlite3\base.py:57: RuntimeWarning: SQLite received a naive datetime (2015-12-06 16:12:05.109067) while time zone support is active.
+  RuntimeWarning)
+
+12/06/2015 04:12:05 PM D@d.com released 2 test results for P@p.com.
+12/06/2015 04:12:59 PM C:\Python34\lib\site-packages\django\db\backends\sqlite3\base.py:57: RuntimeWarning: SQLite received a naive datetime (2015-12-06 16:12:59.123699) while time zone support is active.
+  RuntimeWarning)
+
+12/06/2015 04:12:59 PM D@d.com released 2 test results for P@p.com.
+12/06/2015 04:13:33 PM C:\Python34\lib\site-packages\django\db\backends\sqlite3\base.py:57: RuntimeWarning: SQLite received a naive datetime (2015-12-06 16:13:33.578579) while time zone support is active.
+  RuntimeWarning)
+
+12/06/2015 04:13:33 PM PT@p.com was transferred from Rochester General Hospital to Rochester General Hospital.
+12/06/2015 04:19:17 PM C:\Python34\lib\site-packages\django\db\backends\sqlite3\base.py:57: RuntimeWarning: SQLite received a naive datetime (2015-12-06 16:19:17.226607) while time zone support is active.
+  RuntimeWarning)
+
+12/06/2015 04:19:17 PM D@d.com viewed P@p.com's medical information
+12/06/2015 07:49:39 PM C:\Python34\lib\site-packages\django\db\backends\sqlite3\base.py:57: RuntimeWarning: SQLite received a naive datetime (2015-12-06 19:49:39.509648) while time zone support is active.
+  RuntimeWarning)
+
+12/06/2015 07:49:39 PM PD@p.com logged on.
+12/06/2015 08:39:37 PM C:\Python34\lib\site-packages\django\template\defaulttags.py:66: UserWarning: A {% csrf_token %} was used in a template, but the context did not provide the value.  This is usually caused by not using RequestContext.
+  "A {% csrf_token %} was used in a template, but the context "
+
+12/06/2015 08:39:56 PM C:\Python34\lib\site-packages\django\db\backends\sqlite3\base.py:57: RuntimeWarning: SQLite received a naive datetime (2015-12-06 20:39:56.993874) while time zone support is active.
+  RuntimeWarning)
+
+12/06/2015 08:39:57 PM P@p.com logged on.
+12/07/2015 12:41:18 AM C:\Python34\lib\site-packages\django\template\defaulttags.py:66: UserWarning: A {% csrf_token %} was used in a template, but the context did not provide the value.  This is usually caused by not using RequestContext.
+  "A {% csrf_token %} was used in a template, but the context "
+
+12/07/2015 12:42:52 AM C:\Python34\lib\site-packages\django\db\backends\sqlite3\base.py:57: RuntimeWarning: SQLite received a naive datetime (2015-12-07 00:42:52.343215) while time zone support is active.
+  RuntimeWarning)
+
+12/07/2015 12:42:52 AM An unknown event involving ImpExp, Peteer@p.com, Exp, , and  has occurred.
+08/09/2018 10:45:26 AM C:\Users\Peter\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\defaulttags.py:66: UserWarning: A {% csrf_token %} was used in a template, but the context did not provide the value.  This is usually caused by not using RequestContext.
+  "A {% csrf_token %} was used in a template, but the context "
+

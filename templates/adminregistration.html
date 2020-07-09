@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+
+<body>
+
+{% include "navbar.html" %}
+
+
+{% block title %} Administrator Registration {% endblock %}
+
+
+
+    <form action="" method = "POST"> {% csrf_token %}
+            {{form.as_p}}
+
+        <input type="submit" value="register"/>
+
+        <br>
+        <br>
+        <br>
+        {% if invalid %}
+            There was an error with one of your inputs. Double check:
+            <br>
+            ~Your First and Last name contains only letters
+            <br>
+            ~Your email is already taken
+            <br>
+            ~Your phone number only contains numbers and is the correct length
+        {% endif %}
+    </form>
+
+</body>
+</html>

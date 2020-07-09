@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <link rel="stylesheet" href="http://www.w3schools.com/lib/w3.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="UTF-8">
+    <title>HealthNet Tests</title>
+</head>
+<header class="w3-container w3-blue">
+    <h1>View Tests</h1>
+</header>
+
+<body>
+
+{% include "navbar.html" %}
+
+<table>
+<tr>
+  <th>patient_name</th>
+  <th>test_name</th>
+  <th>results</th>
+</tr>
+{% for b in obj %}
+<tr>
+  <td>{{ b.patient_name }}</td>
+  <td>{{ b.test_name }}</td>
+  <td>{{ b.results }}</td>
+</tr>
+{% endfor %}
+</table>
+</body>
+</html>

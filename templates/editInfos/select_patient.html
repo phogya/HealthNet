@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="http://www.w3schools.com/lib/w3.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="UTF-8">
+    <title>Select Patient</title>
+</head>
+<body>
+
+{% include "navbar.html" %}
+
+<header class="w3-container w3-red">
+    <h1>Select Patient</h1>
+</header>
+
+<form action="/editInfos/editInfos2/" method="post">
+    {% csrf_token %}
+    &nbsp;&nbsp;
+    <select name="Patient">
+        {% for b in obj %}
+            <option value={{b.id}}>{{b.first_name}} {{b.last_name}}</option>
+        {% endfor %}
+    </select>
+    &nbsp;&nbsp;
+    <form action="/editInfos/editInfos2/" method="post">
+    {% csrf_token %}
+    <input type="submit" value="Edit Infos" />
+</form>
+</form>
+</body>
+</html>

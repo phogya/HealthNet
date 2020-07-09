@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="http://www.w3schools.com/lib/w3.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="UTF-8">
+    <title>Edit Profile</title>
+</head>
+
+<body>
+
+{% include "navbar.html" %}
+
+<header class="w3-container w3-blue">
+    <h1>Edit Profile</h1>
+</header>
+
+    <form action="/editInfos/editInfos_for_nurse2/" method="post">
+        {% csrf_token %}
+        <div class="container">
+
+            <br>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            Profile:
+            <br>
+            <br>
+            <p><label for="nurse_first_name">First Name:&nbsp;&nbsp;&nbsp;&nbsp;</label>
+                <input id="nurse_first_name" type="text" name="nurse_first_name" maxlength="100"
+                       value={{nurse.first_name}} /></p>
+            <p><label for="nurse_last_name">Last Name:&nbsp;&nbsp;&nbsp;&nbsp;</label>
+                <input id="nurse_last_name" type="text" name="nurse_last_name" maxlength="100"
+                       value={{nurse.last_name}} /></p>
+            <p><label for="nurse_phone_num">Phone Number:&nbsp;&nbsp;&nbsp;&nbsp;</label>
+                <input id="nurse_phone_num" type="text" name="nurse_phone_num" maxlength="100"
+                       value={{nurse.phone_number}} /></p>
+            <br><br>
+        </div>
+        <form action="/editInfos/editInfos_for_nurse2/" method="post">
+        <input type="submit" value="Edit"/>
+
+    </form>
+    </form>
+</body>
+</html>

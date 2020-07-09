@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <link rel="stylesheet" href="http://www.w3schools.com/lib/w3.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="UTF-8">
+    <title>HealthNet Test</title>
+</head>
+<header class="w3-container w3-blue">
+    <h1>Test Home</h1>
+</header>
+
+<body>
+
+{% include "navbar.html" %}
+
+
+<br>
+<form action="/testResults/add_test/" method="post">
+    {% csrf_token %}
+    <input type="submit" value="Add Test" />
+</form>
+<br>
+<form action="/testResults/select_patient/" method="post">
+    {% csrf_token %}
+    <input type="submit" value="View Test" />
+</form>
+<br>
+<form action="/testResults/change_viewable1/" method="post">
+    {% csrf_token %}
+    <input type="submit" value="Release test results" />
+</form>
+</body>
+</html>
+

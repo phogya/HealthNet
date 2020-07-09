@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="http://www.w3schools.com/lib/w3.css">
+    <title></title>
+</head>
+<body>
+
+    {% include "navbar.html" %}
+
+    {% block content %}
+
+    <h2>Welcome, {{full_name}}! </h2>
+    <br>
+    <form action="/registration/dashboard/" method="post">
+        {% csrf_token %}
+        <input type="hidden" name="delete" value="1"/>
+        <input type="submit" value="Clear All Notifications" />
+    </form>
+    Notifications({{Number}}):<br>
+    {% for item in Notification%}
+        {{item.message}} as of {{item.time}}<br>
+    {% endfor %}
+    <br>
+    {% endblock %}
+
+
+</body>
+</html>

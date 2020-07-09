@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+{% load staticfiles %}
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="http://www.w3schools.com/lib/w3.css">
+    <!--<link rel="icon" type="image/png" href="../favicon.ico" sizes="16x16">-->
+
+    <!--<link rel="stylesheet" type="text/css" href="{
+
+    }% static "css/bootstrap.min.css" %}
+
+    "/>-->
+
+    <title>HealthNet by HackStreet</title>
+</head>
+
+<header class="w3-container w3-blue">
+    <h1>HealthNet by HackStreet</h1>
+</header>
+
+<body>
+{% block content %}
+    <br><br>
+    <h2><strong>A practical software solution for all your healthcare needs.</strong></h2>
+    <div class="w3-row">
+        <div class="w3-container w3-half">
+            <p style="font-size: 20px">HealthNet is an efficient way to develop a connection with your doctor, nurse, patient,
+            and medical health records all in one convenient dashboard.<br><br> This software solution is used
+            across many web platforms and is optimized for basic computer users. Easily navigate through
+            your medical dashboard and create appointments, view/edit medical history, send messages to your
+            nurse or doctor, and receive test results. The best part of HealthNet is all of your information
+            is stored in our database and easily accessible almost anywhere. This makes it easy to transfer
+            patient history and records. <br><br>Start using HealthNet today and unlock many abilities to
+            managing your health care.</p><br><br>
+            <div class="w-3 container w3-half">
+                <a href="{% url 'choose registration'%}" class="w3-btn">Register</a>
+            </div>
+            <div class="w-3 container w3-half">
+                <a href="{% url 'login' %}" class="w3-btn">Log In</a>
+            </div>
+        </div>
+        <div class="w-3 container w3-half">
+            <img src="http://www.summerlinhospital.com/sites/summerlinhospital.com/files/iStock_000009782912Large.jpg"
+                    width="60%" height="60%">
+        </div>
+    </div>
+    <br>
+    <br>
+    <br>
+{% endblock %}
+</body>
+
+<footer class="w3-container w3-blue w3-text-white-opacity">
+  <h5>A HackStreet Boys creation</h5>
+  <p>HealthNet by HackStreet Copyright 2015.</p>
+</footer>
+
+</html>

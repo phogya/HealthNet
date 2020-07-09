@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>HealthNet Appointment</title>
+</head>
+<body>
+    <h2>Choose Appointment</h2>
+
+{% include "navbar.html" %}
+
+<form action="/calendar2/view_appt" method="post">
+    {% csrf_token %}
+    &nbsp;&nbsp;
+    <select name="appt">
+        {% for b in obj %}
+            <option value={{b.patient_id}}>{{b.first_name}} {{b.last_name}}</option>
+        {% endfor %}
+    </select>
+    &nbsp;&nbsp;
+    <form action="/prescription/view/" method="post">
+    {% csrf_token %}
+    <input type="submit" value="View Prescription" />
+</form>
+</form>
+</body>
+</html>

@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>Inbox</title>
+</head>
+<header class="w3-container w3-blue">
+    <h1>Inbox</h1>
+</header>
+<body>
+{% include "navbar.html" %}
+<form action="/message/send/" method="post">
+    {% csrf_token %}
+    <input type="submit" value="Send New Message" />
+</form>
+<form action="/message/sentbox/" method="post">
+    {% csrf_token %}
+    <input type="submit" value="Go to Sent Messages" />
+</form>
+{% for item in Messages %}
+    <form action="/message/reply/" method="post">
+    {% csrf_token %}
+        <div class="container">
+            <br>
+            <ul class="w3-ul w3-card-4" style="width:50%">
+            {% for person in coworker %}
+                {% if person.email == item.sender %}
+                    From: {{person.first_name}} {{person.last_name}} ({{person.email}})<br>
+                    <input type="hidden" name="ReplyTo" value="{{person.email}}"/>
+                {% endif %}
+            {% endfor %}
+            {% for person in coworker %}
+                {% if person.email == item.receiver %}
+                    To: {{person.first_name}} {{person.last_name}} ({{person.email}})<br>
+                    <input type="hidden" name="receiver" value="{{item.receiver}}"/>
+                {% endif %}
+            {% endfor %}
+            {%comment%}To: {{item.receiver}}<br>{%endcomment%}
+            Time: {{item.time}}<br>
+            <input type="hidden" name="time" value="{{item.time}}"/>
+            Subject: {{item.subject}}<br>
+            <input type="hidden" name="subject" value="{{item.subject}}"/>
+            Message: {{item.message}}<br>
+            <input type="hidden" name="message" value="{{item.message}}"/>
+            </ul></div>
+        <input type="submit" name="Reply" value="Reply" />
+        <input type="submit" name="Delete" value="Delete" />
+    </form>
+{% endfor %}
+<br>
+</body>
+</html>

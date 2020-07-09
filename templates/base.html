@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="http://www.w3schools.com/lib/w3.css">
+    <title></title>
+</head>
+<body>
+    {% include 'navbar.html' %}
+    {% if reminders %}
+        <div class="reminders">
+            <div class="gr">Alerts</div>
+            {% for reminder in reminders %}<p> {{ reminder.short|safe }}</p>
+            {% endfor %}
+        </div>
+    {% endif %}
+
+</body>
+</html>

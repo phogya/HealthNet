@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <link rel="stylesheet" href="http://www.w3schools.com/lib/w3.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="UTF-8">
+    <title>HealthNet Info</title>
+</head>
+<header class="w3-container w3-blue">
+    <h1>Patient Information</h1>
+</header>
+
+<body>
+
+{% include "navbar.html" %}
+
+<div class="container">
+        <br>
+        <ul class="w3-ul w3-card-4" style="width:50%">
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Profile:
+            <br> Name:
+            <li> {{patient.first_name}} {{patient.last_name}}</li>
+            <br> Phone Number:
+            <li> {{patient.phone_number}} </li>
+            <br> Email:
+            <li> {{user.email}}</li>
+            <br> Doctor:
+            <li> {{doctor.first_name}} {{doctor.last_name}}</li>
+            <br> Insurance Name:
+            <li> {{pInfo.insurance_Name}} </li>
+            <br> Insurance Number:
+            <li> {{pInfo.insurance_Number}} </li>
+            <br> Emergency Contact Name:
+            <li> {{pInfo.name_Of_Emergency_Contact}} </li>
+            <br> Emergency Contact Number:
+            <li> {{pInfo.number_Of_Emergency_Contact}} </li>
+            <br> Marital Status:
+            <li> {{pInfo.marital_status}} </li>
+
+            <br><br>___________________________________________________________________
+            <br> <br>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Medical Information:
+            <br>
+            <br> Gender:
+            <li> {{pInfo.sex}} </li>
+            <br> Height:
+            <li> {{pInfo.height_inches}}&nbsp; inches </li>
+            <br> Weight:
+            <li> {{pInfo.weight_lbs}}&nbsp; lbs </li>
+            <br> Smoker:
+            <li> {{mInfo.is_smoker}} </li>
+            <br> Drinker:
+            <li> {{mInfo.is_drinker}} </li>
+            <br> Allergies:
+            <li> {{mInfo.allergies}} </li>
+            <br> Past Illnesses:
+            <li> {{mInfo.past_illnesses}} </li>
+
+            <br><br>___________________________________________________________________
+            <br> <br>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Prescriptions:
+            <br>
+            {% for b in presc %}
+                <br>
+                <br>
+                <li>Medication: <br> {{b.medication}}</li>
+                <li>Dose: <br> {{b.dose}}</li>
+                <li>Refill: <br> {{b.refill}}</li>
+            {% endfor %}
+
+            <br><br>___________________________________________________________________
+            <br> <br>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Released Tests:
+            <br>
+            {% for b in rTests %}
+                <br>
+                <br>
+                <li>Test: <br> {{b.test_name}}</li>
+                <li>Results: <br> {{b.results}}</li>
+            {% endfor %}
+
+        </ul>
+    </div>
+</body>
+</html>

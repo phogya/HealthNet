@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>Send a New Message</title>
+</head>
+<header class="w3-container w3-blue">
+    <h1>Send A New Message</h1>
+</header>
+
+<body>
+{% include "navbar.html" %}
+<form action="/message/send/" method="post">
+    {% csrf_token %}
+    Send message to : <select name="Receiver">
+        <option value="None">Select A User</option>
+        {% for b in obj %}
+            <option value={{b.email}}>{{b.email}}</option>
+        {% endfor %}</select>
+    {% if sendfailed %}
+        <font color="red">Please select a user to send to.</font>
+    {% endif %}
+    <p>Subject: <br>{{form.subject}}</p>
+    <p>Message: <br>{{form.message}}</p>
+    <form action="/message/send/" method="post">
+        {% csrf_token%}
+        <input type="submit" value="Send Message" />
+    </form>
+    <br><br>
+    <form action="/message/inbox/" method="post">
+        {% csrf_token%}
+        <input type="submit" value="Go to Inbox" />
+    </form>
+    <br>
+
+</form>
+
+</body>
+</html>

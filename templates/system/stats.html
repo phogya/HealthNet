@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <link rel="stylesheet" href="http://www.w3schools.com/lib/w3.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="UTF-8">
+    <title>HeatlhNet Statistics</title>
+</head>
+<header class="w3-container w3-blue">
+    <h1>HeathNet System Statistics</h1>
+</header>
+<body>
+
+    {% include "navbar.html" %}
+
+    <div class="container">
+        <br><br>
+        <ul class="w3-ul w3-card-4" style="width:50%">
+            <li>Number of users in the system: <br>{{num_user}}</li>
+        </ul>
+        <br><br>
+        <ul class="w3-ul w3-card-4" style="width:50%">
+            <li>Number of patients in the system: <br>{{num_patients}}</li>
+        </ul>
+        <br><br>
+        <ul class="w3-ul w3-card-4" style="width:50%">
+            <li>Number of doctors in the system: <br>{{num_doctor}}</li>
+        </ul>
+        <br><br>
+        <ul class="w3-ul w3-card-4" style="width:50%">
+            <li>Number of administrators in the system: <br>{{num_admin}}</li>
+        </ul>
+        <br><br>
+        <ul class="w3-ul w3-card-4" style="width:50%">
+            <li>Number of nurses in the system: <br>{{num_nurse}}</li>
+        </ul>
+        <br><br>
+        <ul class="w3-ul w3-card-4" style="width:50%">
+            <li>Number of patients in the hospital: <br>{{num_admit}}</li>
+        </ul>
+        <br><br>
+        <ul class="w3-ul w3-card-4" style="width:50%">
+            <li>Average number of visits: <br> {{num_visits}}</li>
+        </ul>
+        <br><br>
+        <ul class="w3-ul w3-card-4" style="width:50%">
+            <li>Average Visit length: <br> {{visit_length}}</li>
+        </ul>
+        <br><br>
+        <ul class="w3-ul w3-card-4" style="width:50%">
+            <li>Reasons for admission to the hospital: <br> {{admission}}</li>
+        </ul>
+        <br><br>
+        <ul class="w3-ul w3-card-4" style="width:50%">
+            <li>Prescriptions (Name:Number) <br> {{prescriptions}}</li>
+        </ul>
+    </div>
+</body>
+</html>

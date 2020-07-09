@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<body>
+
+{% include "navbar.html" %}
+
+
+ <form action="/docauth" method="post">
+        {% csrf_token %}
+        <div class="container">
+
+            <br>
+
+            <p><label for="doctor username">Doctor Username:&nbsp;&nbsp;&nbsp;&nbsp;</label>
+                       {{Doctor.email}} </p>
+
+
+
+
+            <br><br>
+        </div>
+        <form action="/registration/authentication" method="post">
+            <p style="text-align: left"><strong><a href="/registration/auth_success.html">Authenticate</a></strong></p>
+
+    </form>
+    </form>
+
+</body>
+</html>

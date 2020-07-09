@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="http://www.w3schools.com/lib/w3.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="UTF-8">
+    <title>Account</title>
+</head>
+
+<body>
+
+{% include "navbar.html" %}
+
+<header class="w3-container w3-blue">
+    <h1>Edit Profile</h1>
+</header>
+    <form action="/editInfos/editInfos_for_patient2/" method="post">
+        {% csrf_token %}
+        <div class="container">
+
+            <br>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            Profile:
+            <br>
+            <br>
+
+            <p><label for="patient_first_name">First Name:&nbsp;&nbsp;&nbsp;&nbsp;</label>
+                <input id="patient_first_name" type="text" name="patient_first_name" maxlength="100"
+                       value={{patient.first_name}} /></p>
+            <p><label for="patient_last_name">Last Name:&nbsp;&nbsp;&nbsp;&nbsp;</label>
+                <input id="patient_last_name" type="text" name="patient_last_name" maxlength="100"
+                       value={{patient.last_name}} /></p>
+            <p><label for="patient_phone_num">Phone Number:&nbsp;&nbsp;&nbsp;&nbsp;</label>
+                <input id="patient_phone_num" type="text" name="patient_phone_num" maxlength="100"
+                       value={{patient.phone_number}} /></p>
+            <p><label for="patient_insuranceNum">Insurance Number:&nbsp;&nbsp;&nbsp;&nbsp;</label>
+                <input id="patient_insuranceNum" type="text" name="patient_insuranceNum" maxlength="100"
+                       value={{pInfo.insurance_Number}} /></p>
+            <p><label for="patient_insuranceName">Insurance Name:&nbsp;&nbsp;&nbsp;&nbsp;</label>
+                <input id="patient_insuranceName" type="text" name="patient_insuranceName" maxlength="100"
+                       value={{pInfo.insurance_Name}} /></p>
+            <p><label for="patient_ICE_Name">ICE Name:&nbsp;&nbsp;&nbsp;&nbsp;</label>
+                <input id="patient_ICE_Name" type="text" name="patient_ICE_Name" maxlength="100"
+                       value={{pInfo.name_Of_Emergency_Contact}} /></p>
+            <p><label for="patient_ICE_Num">ICE Num:&nbsp;&nbsp;&nbsp;&nbsp;</label>
+                <input id="patient_ICE_Num" type="text" name="patient_ICE_Num" maxlength="100"
+                       value={{pInfo.number_Of_Emergency_Contact}} /></p>
+            <p><label for="patient_Marital_Status">Marital Status:&nbsp;&nbsp;&nbsp;&nbsp;</label>
+                <input id="patient_Marital_Status" type="text" name="patient_Marital_Status" maxlength="100"
+                       value={{pInfo.marital_status}} /></p>
+
+            <br><br>
+        </div>
+        <form action="/editInfos/editInfos_for_patient2/" method="post">
+        <input type="submit" value="Edit"/>
+
+    </form>
+    </form>
+</body>
+</html>

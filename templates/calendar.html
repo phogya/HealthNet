@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>HealthNet</title>
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap-theme.min.css">
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/fullcalendar/2.4.0/fullcalendar.min.css">
+    <script src="//code.jquery.com/jquery-2.1.4.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/moment.js/2.10.6/moment.min.js"></script>
+    <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/fullcalendar/2.4.0/fullcalendar.min.js"></script>
+</head>
+<body>
+
+{% include "navbar.html" %}
+
+<script>
+    var calendar;
+    var s;
+    var e;
+
+    $(document).ready(function () {
+        calendar = $('#calendar').fullCalendar({
+            header: {
+                left: 'prev,next today',
+                center: 'title',
+                right: 'month,basicWeek,basicDay'
+            },
+            selectable: true,
+            select: function (start, end) {
+                s = start;
+                e = end;
+                document.getElementById('id_title').value = "";
+                document.getElementById('id_description').value = "";
+                document.getElementById('id_start_time').value = "";
+                document.getElementById('id_end_time').value = "";
+                $('#fullCalDayModal').modal();
+            },
+            dayClick: function (date, jsEvent, view) {
+                $('#fullCalDayModal').modal();
+            },
+            editable: true,
+            weekends: true,
+            fixedWeekCount: false,
+            aspectRatio: 2,
+
+            eventClick: function(event, element){
+                //event.title ="clicked";
+                $('#calendar').fullCalendar('updateEvent', event);
+                $('#calendar').fullCalendar('removeEvents' [ id0rFilter ])
+            }
+        });
+    });
+
+    function makeAppt() {
+
+        var title = document.getElementById('id_title').value;
+        if (title) {
+            calendar.fullCalendar('renderEvent',
+                    {
+                        title: title,
+                        start: s,
+                        end: e
+                    },
+                    true
+            );
+            document.getElementById('id_title').value = " ";
+            document.getElementById('id_description').value = " ";
+        }
+    }
+
+</script>
+
+<div class="modal-header">
+    <h1 class="text-center">Appointment Calendar</h1>
+</div>
+<br><br><br>
+
+<div class="col-md-6 col-md-offset-3" id='calendar'></div>
+
+<div id="fullCalDayModal" class="modal fade" role="dialog">
+    <div class="modal-dialog">
+
+        <!-- Modal content-->
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal">&times;</button>
+                <h4 class="modal-title">Schedule Appointment</h4>
+            </div>
+            <div class="modal-body">
+                <form action="" method = "POST">
+                    {% csrf_token %}
+                    {{ form }}
+                    <button type="button" onclick="makeAppt()" class="btn btn-default" data-dismiss="modal">Save</button>
+                    <button type="button" class="btn btn-default" data-dismiss="modal">Cancel</button>
+                </form>
+            </div>
+            <div class="modal-footer">
+
+            </div>
+        </div>
+
+    </div>
+</div>
+</body>
+</html>

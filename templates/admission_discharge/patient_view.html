@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <link rel="stylesheet" href="http://www.w3schools.com/lib/w3.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="UTF-8">
+    <title>HealthNet</title>
+</head>
+<header class="w3-container w3-blue">
+    <h1>View Admitted/Discharged Patients</h1>
+</header>
+
+<body>
+{% include "navbar.html" %}
+{% for b in obj %}
+<div class="container">
+        <br>
+        <ul class="w3-ul w3-card-4" style="width:50%">
+            <li>Patient Name: <br>{{patient.first_name}} {{patient.last_name}}</li>
+            <li>Date Admitted: <br> {{b.date_admitted}}</li>
+            <li>Date Discharged: <br> {{b.date_discharged}}</li>
+            <li>Reason of Admittance: <br> {{b.reason}}</li>
+            <li>Status: <br> {{b.status}}</li>
+        </ul>
+    </div>
+{% endfor %}
+</body>
+</html>

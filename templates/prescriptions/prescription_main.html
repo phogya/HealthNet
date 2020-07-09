@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="http://www.w3schools.com/lib/w3.css">
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<body>
+
+    {% include "navbar.html" %}
+
+    {% block title %}View or Create Prescriptions {% endblock %}
+
+    <br><br>
+
+    <a href="{% url 'prescription_create' %}"class="w3-btn"> New </a>
+    <a href="{% url 'select_prescription' %}"class="w3-btn"> View </a>
+    <a href="{% url 'prescription_remove' %}"class="w3-btn"> Remove </a>
+
+</body>
+</html>

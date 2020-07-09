@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="http://www.w3schools.com/lib/w3.css">
+    <title>HealthNet by HackStreet</title>
+</head>
+<header class="w3-container w3-blue">
+    <h1>Which user would you like to authenticate? </h1>
+</header>
+<body>
+
+{% include "navbar.html" %}
+
+
+    <br>
+    <div class="w-3 container w3-half">
+        <a href="{% url 'nurse auth' %}" class="w3-btn">Nurse</a>
+    </div>
+    <br>
+    <br>
+    <div class="w-3 container w3-half">
+        <a href="{% url 'doc auth' %}" class="w3-btn">Doctor</a>
+    </div>
+    <br>
+    <br>
+    <div class="w-3 container w3-half">
+        <a href="{% url 'admin auth' %}" class="w3-btn">Administrator</a>
+    </div>
+    <br>
+    <br>
+    <div class="w-3 container w3-half">
+        <a href="/registration/dashboard" class="w3-btn">Return to Dashboard</a>
+    </div>
+</body>
+</html>

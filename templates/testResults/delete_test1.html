@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <link rel="stylesheet" href="http://www.w3schools.com/lib/w3.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="UTF-8">
+    <title>HealthNet Add Test</title>
+</head>
+<header class="w3-container w3-blue">
+    <h1>Select Patient</h1>
+</header>
+
+<body>
+
+{% include "navbar.html" %}
+
+<form action="/testResults/delete_test2/" method="post">
+    {% csrf_token %}
+    &nbsp;&nbsp;
+    <select name="Test">
+        {% for b in obj %}
+            <option value={{b.id}}>{{b.test_name}} {{b.id}}</option>
+        {% endfor %}
+    </select>
+    &nbsp;&nbsp;
+
+    {% csrf_token %}
+    <input type="submit" value="Delete Test" />
+</form>
+
+</body>
+</html>

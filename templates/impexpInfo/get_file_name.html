@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="http://www.w3schools.com/lib/w3.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="UTF-8">
+    <title>Import Info</title>
+</head>
+<body>
+
+{% include "navbar.html" %}
+
+<header class="w3-container w3-blue">
+    <h1>Import Info</h1>
+</header>
+    <form action="/impexpInfo/importCSV/" method="post">
+        {% csrf_token %}
+        <div class="container">
+
+            <br>
+            <p><label for="file_name">File Path:&nbsp;&nbsp;&nbsp;&nbsp;</label>
+                <input id="file_name" type="text" name="file_name" maxlength="100"/></p>
+
+            <br><br>
+        </div>
+        <form action="/impexpInfo/importCSV/" method="post">
+        <input type="submit" value="Import"/>
+
+    </form>
+    </form>
+</html>

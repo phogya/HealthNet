@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>Send a New Message</title>
+</head>
+<header class="w3-container w3-blue">
+    <h1>Reply to the Message</h1>
+</header>
+
+<body>
+{% include "navbar.html" %}
+<div class="container">
+    <br>
+    <ul class="w3-ul w3-card-4" style="width:50%">
+    {% comment %}
+    {% for person in coworker %}
+        {% if person.email == item.sender %}
+            From: {{person.first_name}} {{person.last_name}} ({{person.email}})<br>
+            <input type="hidden" name="ReplyTo" value="{{person.email}}"/>
+        {% endif %}
+    {% endfor %}
+    {% for person in coworker %}
+        {% if person.email == item.receiver %}
+            To: {{person.first_name}} {{person.last_name}} ({{person.email}})<br>
+        {% endif %}
+    {% endfor %}{%endcomment%}
+    {%comment%}To: {{item.receiver}}<br>{%endcomment%}
+    {%comment%}Time: {{item.time}}<br>{%endcomment%}
+    Previous Message<br>
+    Subject: {{prevSub}}<br>
+    <input type="hidden" name="subject" value="{{item.subject}}"/>
+    Message: {{prevMes}}<br>
+    <input type="hidden" name="subject" value="{{item.message}}"/>
+    </ul></div>
+<br>
+<form action="/message/send/" method="post">
+    {% csrf_token %}
+    Send message to : <select name="Receiver">
+        <!--<option value="None">Select A User</option>-->
+        {% for b in obj %}
+            <option value={{b.email}}>{{b.email}}</option>
+        {% endfor %}</select>
+    {% if sendfailed %}
+        <font color="red">Please select a user to send to.</font>
+    {% endif %}
+    <br><br>
+    Subject: <br>{{form.subject}}<br><br>
+    Message: <br>{{form.message}}<br><br>
+    <form action="/message/send/" method="post">
+        {% csrf_token%}
+        <input type="submit" value="Send Message" />
+    </form>
+    <br><br>
+    <form action="/message/inbox/" method="post">
+        {% csrf_token%}
+        <input type="submit" value="Go To Inbox" />
+    </form>
+    <br>
+
+</form>
+
+</body>
+</html>

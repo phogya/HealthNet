@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <link rel="stylesheet" href="http://www.w3schools.com/lib/w3.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="UTF-8">
+    <title>HealthNet Add Test</title>
+</head>
+<header class="w3-container w3-blue">
+    <h1>Edit Info</h1>
+</header>
+
+<body>
+
+{% include "navbar.html" %}
+
+    <form action="/testResults/edit_infos_test2/" method="post">
+        {% csrf_token %}
+        <div class="container">
+
+            <br>
+
+            <p><label for="patient_first_name">Test:&nbsp;&nbsp;&nbsp;&nbsp;</label>
+                <input id="patient_first_name" type="text" name="patient_first_name" maxlength="100"
+                       value={{patient.first_name}} /></p>
+
+            <input type="submit" value="Edit Infos"/>
+            <br><br>
+        </div>
+    </form>
+</body>
+</html>

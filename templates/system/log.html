@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <link rel="stylesheet" href="http://www.w3schools.com/lib/w3.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="UTF-8">
+    <title>HealthNet Log</title>
+</head>
+<header class="w3-container w3-blue">
+    <h1>System Log</h1>
+</header>
+
+<body>
+
+{% include "navbar.html" %}
+
+<form action="/system/logfilter/" method="post">
+
+    {% csrf_token %}
+    User : <select name="Usernames">
+        <option value="None">Select A User</option>
+        {% for b in user %}
+            <option value={{b.user}}>{{b.user}}</option>
+        {% endfor %}</select>
+    Action : <select name="LoggingActions">
+        <option value="None">Select An Action</option>
+        {% for b in action %}
+            <option value={{b.trigger}}>{{b.trigger}}</option>
+        {% endfor %}</select>
+
+    <!--Tried to use a submit-->
+    <form action="/system/logfilter/" method="post">
+    {% csrf_token %}
+    <input type="submit" value="Log Filter" />
+</form>
+</form>
+
+    <div class="container">
+        {% for item in logentry%}
+                <p>{{item.time}} {{item.comment}}</p>
+        {% endfor %}
+    </div>
+</body>
+</html>
